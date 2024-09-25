@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 24-09-2024)",
+    "author": "chuky (Haz-tu-liada al 25-09-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -638,7 +638,7 @@
              "isHost":"true" 
 		}]
                    },{       
-            "name": "Tenis [Final Davis]",
+            "name": "Tenis",
             "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
             "info": "",
             "stations": [{ 
@@ -849,135 +849,236 @@
 			 "isHost":"true"
                    }]
                      }, {
-		"name": "Copa Mundial Femenina de Fútbol Sub-20",
-		"image": "https://i.ibb.co/L0vbfj2/fifa-2024-women.webp",
+		"name": "UEFA Europa League",
+		"image": "https://img.uefa.com/imgml/uefacom/uel/social/og-default.jpg",
 		"info": "",
 		"stations": [{
-                                   "name": "Alemania vs Argentina",
-			 "image": "https://i.ibb.co/L0vbfj2/fifa-2024-women.webp",
-               			 "url" : "https://1qwebplay.xyz/mono.php?id=32", 
-                         "referer" : "https://s2watch.link/",
-			"isHost" : "true"
+                                   "name": "Campeones 1",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			"url" :  "https://dinnerpotential.net/embed/vuiel9gd34kos6",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
                                  }, {
-                                 "name": "Japón vs Nigeria",
-			 "image": "https://i.ibb.co/L0vbfj2/fifa-2024-women.webp",
-               			 "url" : "https://1qwebplay.xyz/mono.php?id=32", 
-                         "referer" : "https://s2watch.link/",
-			"isHost" : "true"
+                                 "name": "Campeones 2",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			   "url" :  "https://dinnerpotential.net/embed/00ui0v",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
                                  }, {
-                           "name": "Corea del  Norte vs Austria",
-			 "image": "https://i.ibb.co/L0vbfj2/fifa-2024-women.webp",
-               			  "url" : "https://1qwebplay.xyz/mono.php?id=37",
-                  "referer" : "https://s2watch.link/",
-            "isHost": "true"
+                           "name": "Campeones 3",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			  "url" :  "https://dinnerpotential.net/embed/efw4k296",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
                                       }, {
-                           "name": "Francia vs Holanda",
-			 "image": "https://i.ibb.co/L0vbfj2/fifa-2024-women.webp",
-               			  "url" : "https://1qwebplay.xyz/mono.php?id=37",
-                  "referer" : "https://s2watch.link/",
-            "isHost": "true"
+                           "name": "Campeones 4",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			 "url" :  "https://dinnerpotential.net/embed/m4kcoozqga6",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                         }, {
+                           "name": "Campeones 5",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			 "url" :  "https://dinnerpotential.net/embed/m4kcoozqga6",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                            }, {
+                           "name": "TUDN",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=30", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"
+                                            }, {
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=1", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"    
+                                               }, {
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=2", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"
+                                            }, {
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=3", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"    
+                                              }, {
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=5", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"
+                                            }, {
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=6", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"    
+                                               }, {
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=7", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"
+                                            }, {
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://viwlivehdplay.ru/mono.php?id=8", 
+                         "referer" : "https://s2watch.link/",
+			"isHost" : "true"    
+                                          }, {
+                              "name": "Juve",
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://forgepattern.net/embed/ww6frra9pf", 
+                         "referer" : "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                             }, {
+                             "name": "Milan",             
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://forgepattern.net/embed/2zy981htw4ee", 
+                         "referer" : "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                           }, {
+                             "name": "Partizan",
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://forgepattern.net/embed/ugce3jz6chx", 
+                         "referer" : "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                          }, {
+                             "name": "Everton",
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://forgepattern.net/embed/40ltfs8ms26hmy", 
+                         "referer" : "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                     }, {
+                             "name": "Celtic",
+                           "name": "Otro Idiona",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			      "url" : "https://forgepattern.net/embed/kw6ef0n921mnbf0", 
+                         "referer" : "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                   }, {
+                                                      "name": "Multiuefa",
+			"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+		                  "url" : "https://viwlivehdplay.ru/mono.php?id=24", 
+                                                      "referer" : "https://s2watch.link/",
+			"isHost" : "true"
+                     }, {
+                                                      "name": "Multiuefa",
+			"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+			  "url" :  "https://dinnerpotential.net/embed/efw4k296",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
                       }]
                    }, {
 		"name": "Eventos deportivos mix (Champion League)",
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Feyenoord vs Bayer Leverkusen",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
                                                     "url" : "https://viwlivehdplay.ru/mono.php?id=30", 
                          "referer" : "https://s2watch.link/",
 			"isHost" : "true"
                     }, {
                                                        "name": "Campeones 2",
-			"name": "Feyenoord vs Bayer Leverkusen",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                  "url" :  "https://dinnerpotential.net/embed/00ui0v",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                    }, {
                                                       "name": "Campeones 3", 
-			"name": "Crvena Zvezda vs Benfica",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" :  "https://dinnerpotential.net/embed/efw4k296",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {
                                                       "name": "Campeones 3 ",
-			"name": "Crvena Zvezda vs Benfica",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://viwlivehdplay.ru/mono.php?id=29", 
                                                       "referer" : "https://s2watch.link/",
 			"isHost" : "true"
                      }, {
                                                       "name": "Campeones ",
-			"name": "Atlético Madrid vs RB Leipzig",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" :  "https://dinnerpotential.net/embed/vuiel9gd34kos6",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {
                                                       "name": "Campeones ",
-			"name": "Atlético Madrid vs RB Leipzig",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			 "url" : "https://viwlivehdplay.ru/mono.php?id=19", 
                                                       "referer" : "https://s2watch.link/",
 			"isHost" : "true"
                                }, {
                                                       "name": "Campeones ",
-			"name": "Atlético Madrid vs RB Leipzig",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		     "url" :  "https://sportsonline.sx/channels/hd/hd6.php",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
                             }, {
                                                       "name": "Campeones ",
-			"name": "Atlético Madrid vs RB Leipzig",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=435",
 			 "isHost":"true"
                      }, {
                                                       "name": "Campeones ",
-			"name": "Atlético Madrid vs RB Leipzig",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			 "url": "https://new.misshit.top/fgvsg556hcfgnh",
                                                        "isHost": "true"
                             }, {
-			"name": "Monaco vs Barcelona",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://viwlivehdplay.ru/mono.php?id=30", 
                                                       "referer" : "https://s2watch.link/",
 			"isHost" : "true"
                      }, {
                                                        "name": "Campeones 2 ",
-			"name": "Monaco vs Barcelona",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://dinnerpotential.net/embed/00ui0v",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                           }, {
                                                        "name": "Campeones 3 ",
-			"name": "Atalanta vs Arsenal",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://viwlivehdplay.ru/mono.php?id=29", 
                                                       "referer" : "https://s2watch.link/",
 			"isHost" : "true"
                      }, {
                                                        "name": "Campeones 3 ",
-			"name": "Atalanta vs Arsenal",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			 "url" :  "https://dinnerpotential.net/embed/efw4k296",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                       }, {
                                                       "name": "Campeones 4 ",
-			"name": "Brest vs Sturm Graz",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://viwlivehdplay.ru/mono.php?id=48", 
                                                       "referer" : "https://s2watch.link/",
 			"isHost" : "true"
                      }, {
                                                       "name": "Campeones 5 ",
-			"name": "Brest vs Sturm Graz",
+			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://dinnerpotential.net/embed/m4kcoozqga6",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
