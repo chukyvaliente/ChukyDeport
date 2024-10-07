@@ -1649,30 +1649,6 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" : "https://gofile.io/d/AeKA9O",
 			"isHost": "true" 
-			  }, {
-          "name": "Manujaz MotoRSport F1 (iPhone)",
-			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url": "https://vkvsd204.mycdn.me/hls/6577909336602.m3u8/sig/Q4beI8KVXN0/srcIp/37.14.45.69/urls/45.136.22.67/expires/1719602495130/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7273043864346/id/6577909336602/6577909336602_fullhd/index.m3u8",
-                       "userAgent" : " "
-                         }, {
-          "name": "Manujaz MotoRSport F1 (Android)",
-			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",	
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",  
-                     "url":"https://vkvsd95.mycdn.me/hls/6577909336602.m3u8/sig/fvEcq1LT_FQ/expires/1719225917521/srcIp/37.14.45.69/urls/45.136.22.67/clientType/14/srcAg/CHROME_ANDROID/mid/7273043864346/6577909336602_fullhd/index.m3u8",
-                        "userAgent" : " "
-                             }, {
-          "name": "Manujaz MotoRSport WRC 80° ORLEN Rally Chile Biobío 2024 (Android)",
-			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	"url":"https://vkvsd180.mycdn.me/hls/7033673746970.m3u8/sig/VAfi_u0auFc/srcIp/37.14.45.69/urls/185.226.52.97/expires/1728064069024/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7573843618586/id/7033673746970/7033673746970_fullhd/index.m3u8",
-                  "userAgent" : " "
-                                 }, {
-          "name": "Manujaz MotoRSport WRC 80° ORLEN Rally Chile Biobío 2024 (IOS)",
-			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url": " https://vkvsd203.mycdn.me/hls/7033673746970.m3u8/sig/yhgjpk-Ob3s/srcIp/37.14.45.69/urls/185.226.53.69/expires/1728064119446/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7573843618586/id/7033673746970/7033673746970_fullhd/index.m3u8",
-                   "userAgent" : " "
                        }, {
           "name": "M-F1(OP-1)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1786,19 +1762,7 @@
                       "image":"https://www.motociclismo.es/uploads/s1/65/26/42/0/circuito-motegi-japon-motogp-270911.jpeg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
               "url": "https://upstream.to/iy7l38av3r4j",
-             "isHost": "true" 
-	             }, {
-			"name": "Manujaz MotoRSport MOTO (Android)",
-			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈© ",
-                          "url" : "  https://vkvsd233.mycdn.me/hls/7071029725722.m3u8/sig/vphj3Yk-aPw/srcIp/37.14.45.69/urls/45.136.20.88/expires/1728543206779/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7603886762778/id/7071029725722/7071029725722_fullhd/index.m3u8",                          "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                          "userAgentet" : " "
-                      }, {
-			"name": "Manujaz MotoRSport MOTO (IOS)",
-			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-"url":" https://vkvsd233.mycdn.me/hls/7071029725722.m3u8/sig/5P9EwDiuMtM/srcIp/37.14.45.69/urls/45.136.20.88/expires/1728543263879/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7603886762778/id/7071029725722/7071029725722_fullhd/index.m3u8",
-                       "userAgentet" : " "
+             "isHost": "true"
 	              }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
