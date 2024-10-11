@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 08-10-2024)",
+    "author": "chuky (Haz-tu-liada al 11-10-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,37 +19,37 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Miami Heat vs Charlotte Hornets",
+			"name": "Pelicans @ Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Chicago Bulls vs Cleveland Cavaliers",
+                        "name": "Raptors @ Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Phoenix Suns vs Detroit Pistons",
+                        "name": "76ers @ Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Indiana Pacers vs Atlanta Hawks",
+                        "name": "Pistons @ Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Brooklyn Nets vs LA Clippers",
+			"name": "Kings @ Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "(WNBA Playoffs) Minnesota Lynx vs Connecticut Sun",
+			"name": "Trail Blazers @ Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-06/",
@@ -316,7 +316,7 @@
 			"url" : "v.https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Kansas City Chiefs vs New Orleans Saints",
+			"name": "Seattle Seahawks vs San Francisco 49ers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-01/",
@@ -405,25 +405,25 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "St. Louis @ Seattle",
+                        "name": "Bahía de Tampa @ Carolina",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Boston @ Florida",
+                        "name": "Chicago @Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Chicago @ Utah",
+			"name": "San Luis @ Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Filadelfia @ Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-4/",
@@ -506,13 +506,13 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-			"name": "Phillies @ Mets",
+			"name": "Los Angeles Dodgers vs San Diego Padres",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/mlb-1/",
 			"isHost": "true"
              }, {
-			"name": "Dodgers @ Padres",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/mlb-2/",
@@ -710,18 +710,20 @@
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                       },{ 
+                             "name": "2",
                  "name": "evento 8 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" :  "https://viwlivehdplay.ru/mono.php?id=5",
-		"referer" : "https://s2watch.link/",
+                  "url" :  "https://generalpill.net/embed/h1gn2",
+		"referer" : "https://bedsport.live/",
 			 "isHost":"true"
                         },{ 
+                                  "name": "6 sportson",
                  "name": "evento 9 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url" :  "https://viwlivehdplay.ru/mono.php?id=7",
-		"referer" : "https://s2watch.link/",
+                    "url" :  "https://35rr2l4rh003d5m.kettlescrape.net/embed/2ov0r1",
+		"referer" : "https://v5.sportsonline.si/",
 			 "isHost":"true"
                         },{ 
                  "name": "evento 10 Boxeo",
@@ -899,6 +901,83 @@
                       "url" : "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
 			 "userAgent":""  
 		}]
+                 }, {
+		"name": "UEFA Nations League",
+		"image": "https://editorial.uefa.com/resources/0292-1c0a5b52a51e-9e115b4e5898-1000/uefa_nations_league_202425_league_phase_draw_20240208193114.jpeg",
+                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		"info": "",
+		"stations": [{
+                                                      "name": "9", 
+			"name": "Lituania vs Kosovo (opción 1)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                   "url" :  "https://generalpill.net/embed/ueahi0mkr3",
+		                   "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                          }, {
+                                                      "name" : "9",
+			"name": "Croacia vs Escocia (opción 2)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		                  "url" :  "https://generalpill.net/embed/ueahi0mkr3",
+		                   "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                          }, {
+                                                       "name" : "6,
+			"name": "Bulgaria vs Luxemburgo (opción 3)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                                      "url" : "https://generalpill.net/embed/hr26bz3mkdlt7zl",
+			 "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                           }, {
+                                                     "name" : "tve",
+			"name": "España vs Dinamarca (opción 4)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                                      "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8",
+			"userAgent": ""
+                          }, {
+                                                        "name" : "26",
+			"name": "España vs Dinamarca (opción 5)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		                  "url" : "https://generalpill.net/embed/ueahi0mkr3",
+			 "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                         }, {
+                                                     "name" : "4",
+			"name": "Serbia vs Suiza (opción 6)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                                      "url" : "https://generalpill.net/embed/taj6r",
+			 "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                          }, {
+                                                       "name" : "18",
+			"name": "Polonia vs Portugal (opción 7)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		                   "url" : "https://generalpill.net/embed/l2tnht",
+			 "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+			 }, {
+                                                      "name" : "7",
+			"name": "Chipre vs Rumanía (opción 8)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" : "https://generalpill.net/embed/vxf0bjocis",
+			 "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                                        }, {
+                                                      "name" : "43",
+			"name": "Bielorrusia vs Irlanda del Norte (opción 9)",
+			"image": "https://editorial.uefa.com/resources/0290-1bb66c92c209-8bde5a09621d-1000/fbl-eur-nations-finals-draw.jpeg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" : "https://generalpill.net/embed/kj2hoxz1p0eox0",
+			 "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                 }]
                  },{
             "name": "La Liga Endesa/Euroliga 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
             "image": "https://i.ibb.co/J7ZM8v6/acb-euroliga.jpg",
@@ -1453,6 +1532,13 @@
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
         		                   "url" : "https://generalpill.net/embed/wnm78ydq",
+             "referer" : "https://bedsport.live/",
+            "isHost": "true"  
+                                  }, {
+                        "name": "La Seguda división España (opción 12)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                   "url" : "https://generalpill.net/embed/xdpq3ptcuts1qpp",
              "referer" : "https://bedsport.live/",
             "isHost": "true"  
 		}]
