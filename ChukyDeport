@@ -1400,7 +1400,7 @@
 			"name": "La Liga (opción 3)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                        "url" : "https://paco@www.oha.to/play/3996529465/index.m3u8",
+                        "url" : "https://www.oha.to/play/3996529465/index.m3u8",
 			"userAgent" : ""
                            }, {
                         "name" : "Elixx",
@@ -1445,6 +1445,14 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			       "url" :  "https://emb.apl357.me//player/live.php?id=223817&w=100%&h=100%",
 			 "isHost":"true"  
+                                                         }, {
+			"name": "La de España (opción 10)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			    "url" : "https://4kwebplay.xyz/maxsport.php?id=primaespndeportes ",
+                                                       "referer" : "https://antenasport.online/",
+                                                        "isHost": "true"  
+
                                                         }, {
 			"name": "La de España 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -1533,9 +1541,9 @@
 			"name": "La Seguda división España (opción 9)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url": "https://mylivestream.pro/beta.php?stream=CJ9AwYimdyUo",
-                                "referer" : "https://aliezstream.pro/",
-             "isHost": "true" 
+		 "url" : "https://8kwebplay.xyz/maxsport.php?id=primaliga1",
+                                                      "referer" : "https://antenasport.online/",
+			"isHost" : "true"
                      }, {
 			"name": "La Seguda división España (opción 10)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
@@ -2470,9 +2478,9 @@
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       	   "url" : "https://mylivestream.pro/bettaa.php?stream=BRCgSeMTtEm8",
-                                          "referer" : "https://aliezstream.pro/",
-             "isHost": "true"
+	       	      "url" : "https://8kwebplay.xyz/maxsport.php?id=primamovistar1",
+                  "referer" : "https://antenasport.online/",
+            "isHost": "true"  
                            }, {  
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
@@ -2484,9 +2492,9 @@
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed68",
-              "referer" : "https://www.tv1337.buzz/",
-			 "isHost":"true"
+	    "url" : "https://8kwebplay.xyz/maxsport.php?id=primamovistar2",
+                  "referer" : "https://antenasport.online/",
+            "isHost": "true"  
                    }, {
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
@@ -2517,8 +2525,9 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			            "url" : "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=537",
-            "isHost": "true"    
+			           "url" : "https://8kwebplay.xyz/maxsport.php?id=primadaznf1",
+             "referer" : "https://antenasport.online/",
+            "isHost": "true"  
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
