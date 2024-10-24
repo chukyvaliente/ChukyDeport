@@ -2725,9 +2725,8 @@
                     "name": "Bein Sport Ñ",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                   "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed101",
-              "referer" : "https://www.tv1337.buzz/",
-			 "isHost":"true"
+                                   "url" : "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+			 "userAgent":""
                                         }, {
 			"name": "Telemundo",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/800px-Telemundo_logo_2012.svg.png",
