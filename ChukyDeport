@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 23-10-2024)",
+    "author": "chuky (Haz-tu-liada al 24-10-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,25 +19,25 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "",
+			"name": "Boston Celtics vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "",
+                        "name": "San Antonio Spurs vs Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Oklahoma City Thunder vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Minnesota Timberwolves vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-04/",
@@ -316,13 +316,13 @@
 			"url" : "v.https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "",
+			"name": "Los Angeles Rams vs Minnesota Vikings",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-01/",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "Arizona Cardinals vs Los Angeles Chargers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-02/",
@@ -405,55 +405,55 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "",
+                        "name": "Dallas @ Boston",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "St. Louis @ Toronto",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "New Jersey @ Detroit",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Minnesota @ Tampa Bay",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Florida @ New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Colorado @ Utah",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Carolina @ Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Winnipeg @ Seattle",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "San Jose @ Los Angeles",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-9/",
@@ -506,7 +506,7 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-			"name": "",
+			"name": "Mets @ Dodgers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/mlb-1/",
@@ -618,17 +618,19 @@
 		"image": "https://wallpapers.com/images/hd/afl-official-logo-t4rl9luh6f2a52uk.jpg",
 		"info": "",
 		"stations": [{
+                                                      "name": "3",
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		      "url" : "https://generalpill.net/embed/h1gn2",
+        		      "url" : "https://generalpill.net/embed/dnva8",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
                                                         }, {
+                                                      "name": "4",
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	      "url" : "https://generalpill.net/embed/vxf0bjocis",
+	      "url" : "https://generalpill.net/embed/taj6r",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
                                                       }, {
@@ -1120,7 +1122,7 @@
                                       }, {
                            "name": "Campeones 4",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			 "url" :  "https://dinnerpotential.net/embed/m4kcoozqga6",
+               			 "url" :  "https://dinnerpotential.net/embed/hzsw0yityofp0y",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                          }, {
@@ -1689,13 +1691,13 @@
               "referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                         }, {
-                        "name": "29",
+                        "name": "19",
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       	  "url" : "https://generalpill.net/embed/wnm78ydq",
-                    "referer" : "https://bedsport.live/",
-			"isHost" : "true"
+	       	  "url" : "https://generalpill.net/embed/av8q3fwxcb",
+             "referer" : "https://bedsport.live/",
+            "isHost": "true"  
 			}, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
@@ -1826,12 +1828,12 @@
                      "referer" : "https://elitegol.lat/",
             "isHost":"true"
               }, {
-          "name" : "56",
+          "name" : "29",
           "name": "M-F1(OP-2)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                              "url" : "https://generalpill.net/embed/i2wp1vbihfn2vy?skin=1", 
-                         "referer" : "https://bedsport.live/",
+			                               "url" : "https://generalpill.net/embed/wnm78ydq",
+                    "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                    }, {
           "name": "M-F1(OP-3)",
@@ -1965,9 +1967,9 @@
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                       "url" : "https://generalpill.net/embed/xdpq3ptcuts1qpp",
-                    "referer" : "https://bedsport.live/",
-			"isHost" : "true"
+                        "url" : "https://generalpill.net/embed/av8q3fwxcb",
+             "referer" : "https://bedsport.live/",
+            "isHost": "true"  
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
