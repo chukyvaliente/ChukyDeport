@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 09-11-2024)",
+    "author": "chuky (Haz-tu-liada al 11-11-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,31 +19,31 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Utah Jazz vs San Antonio Spurs",
+			"name": "Cleveland Cavaliers vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Chicago Bulls vs Atlanta Hawks",
+                        "name": "Washington Wizards vs Houston Rockets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Brooklyn Nets vs Cleveland Cavaliers",
+                        "name": "Brooklyn Nets vs New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Toronto Raptors vs LA Clippers",
+                        "name": "LA Clippers vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Sacramento Kings vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-05/",
@@ -126,7 +126,7 @@
 			"url" : "v.https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Baltimore Ravens vs Cincinnati Bengals",
+			"name": "Los Angeles Rams vs Miami Dolphins",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-01/",
@@ -215,67 +215,67 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Calgary @ Buffalo",
+                        "name": "Montréal @ Buffalo",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Dallas @ Winnipeg",
+                        "name": "San Jose @ Philadelphia",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Philadelphia @ Florida",
+			"name": "Dallas @ Pittsburgh",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "New York @ Detroit",
+			"name": "Los Angeles @ Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Montréal @ Toronto",
+                         "name": "Nashville @ Colorado",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Washington @ St. Louis",
+			"name": "Carolina @ Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "New Jersey @ New York",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Utah @ Nashville",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "Carolina @ Colorado",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-9/",
 			"isHost": "true"
                }, {
-			"name": "Columbus @ Los Angeles",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-10/",
 			"isHost": "true"
                }, {
-			"name": "Edmonton @ Vancouver",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-11/",
@@ -423,53 +423,6 @@
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"isHost": "true"  
 		}]  
-                      }, {
-		"name": "AFL-Australia 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-		"image": "https://wallpapers.com/images/hd/afl-official-logo-t4rl9luh6f2a52uk.jpg",
-		"info": "",
-		"stations": [{
-                                                      "name": "3",
-			"name": "",
-			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		      "url" : "https://generalpill.net/embed/dnva8",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
-                                                        }, {
-                                                      "name": "4",
-			"name": "",
-			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	      "url" : "https://generalpill.net/embed/taj6r",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
-                                                      }, {
-			"name": "",
-			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	      "url" : "https://generalpill.net/embed/mqyperz95",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
-                                                      }, {
-			"name": "",
-			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		                        "url" : "https://topembed.pw/cric.php?id=TNTSports2[UK]",
-			 "isHost":"true"  
-                                                  }, {
-			"name": "",
-			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		                        "url" : "https://topembed.pw/cric.php?id=TNTSports4[UK]",
-			 "isHost":"true"  
-                                                        }, {
-			"name": "",
-			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                                "url" :  "https://closedjelly.net/embed/ejj6a0rybyyp",
-		"referer" : "https://www.elixx.xyz/",
-			 "isHost":"true"
-		 }]
                     },{  
             "name": "Boxeo, UFC, MMA, WWE 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
             "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
@@ -1435,9 +1388,8 @@
 			"name": "La Seguda división España (opción 8)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://4kwebplay.xyz/maxsport.php?id=primaliga1",
-                                                      "referer" : "https://antenasport.online/",
-			"isHost" : "true"
+			                  "url" : "https://allcaster.pro:8089/hls/0bcFtdYyG5Qe.m3u8?st=XTU5HGCIx2vukqNET5PN_VdOjTm3OXc_VLYkgAga9HY&e=1731189628",
+			"userAgent" : ""
 	              }, {
 			"name": "La Seguda división España (opción 9)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
