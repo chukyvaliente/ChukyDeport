@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 11-11-2024)",
+    "author": "chuky (Haz-tu-liada al 12-11-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,49 +19,49 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Cleveland Cavaliers vs Chicago Bulls",
+			"name": "Atlanta Hawks vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Washington Wizards vs Houston Rockets",
+                        "name": "Miami Heat vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Brooklyn Nets vs New Orleans Pelicans",
+                        "name": "Charlotte Hornets vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "LA Clippers vs Oklahoma City Thunder",
+                        "name": "New York Knicks vs Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Sacramento Kings vs San Antonio Spurs",
+			"name": "Toronto Raptors vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Phoenix Suns vs Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                                                      "name": "",
+                                                      "name": "Dallas Mavericks vs Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Minnesota Timberwolves vs Portland Trail Blazers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-08/",
@@ -215,43 +215,43 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Montréal @ Buffalo",
+                        "name": "Ottawa @ Toronto",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "San Jose @ Philadelphia",
+                        "name": "Winnipeg @ New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Dallas @ Pittsburgh",
+			"name": "New Jersey @ Florida",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Los Angeles @ Calgary",
+			"name": "Boston @ St. Louis",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Nashville @ Colorado",
+                         "name": "New York @ Edmonton",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Carolina @ Vegas",
+			"name": "Columbus @ Seattle",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Calgary @ Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-7/",
@@ -855,8 +855,7 @@
                  "name": "Opción 2(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-              	"url" : "https://linearroute.net/embed/lf445b",
-                   "referer" : "https://tarjetarojaenvivo.lat/",
+              	"url" : "https://abbasport.site/vamos.php",
             "isHost":"true"
                      },{
                      "name": "Opción 1(M-Deportes 2)",
@@ -1394,9 +1393,8 @@
 			"name": "La Seguda división España (opción 9)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url" : "https://ilovetoplay.xyz/maxsport.php?id=primaliga1",
-                                                      "referer" : "https://antenasport.online/",
-			"isHost" : "true"
+		"url" : "https://allcaster.pro:8089/hls/377qj1h890g40.m3u8?st=DfIkKQpEFcU7clIEthODXDU0JjNjOdF3ZrzfaDuX3tA&e=1731189631",
+            "userAgent":""
                      }, {
 			"name": "La Seguda división España (opción 10)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
@@ -2268,14 +2266,13 @@
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            		"url" : "https://mylivestream.pro/bettaa.php?stream=dGEX9j7C3K3Q",
-                   "referer" : "https://aliezstream.pro/",
-            "isHost":"true"
+            		"url" : "https://allcaster.pro:8089/hls/377qj1h890g40.m3u8?st=DfIkKQpEFcU7clIEthODXDU0JjNjOdF3ZrzfaDuX3tA&e=1731189631",
+            "userAgent":""
                    }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            			      "url" : "https://quest4play.xyz/premiumtv/daddylivehd.php?id=521",
+            			      "url" : "https://abbasport.site/vamos.php",
 			 "isHost":"true"
 		}, {
 			"name": "M-Campeones ",
@@ -2320,16 +2317,14 @@
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       	      "url" : "https://ilovetoplay.xyz/maxsport.php?id=primamovistar1",
-                  "referer" : "https://antenasport.online/",
+	       	      "url" : "https://abbasport.site/movistar1.php",
             "isHost": "true"  
                            }, {  
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       			   "url" : "https://mylivestream.pro/bettaa.php?stream=BRCgSeMTtEm8",
-                                          "referer" : "https://aliezstream.pro/",
-             "isHost": "true"          
+	       			   "url" : "https://allcaster.pro:8089/hls/0bcFtdYyG5Qe.m3u8?st=EP7Nq4TyrjbwEQ6Q1nz1rOBYjsD_Hr2BgS1t9PTmGHc&e=1731189401",
+             "userAgent": ""          
                     }, {
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
@@ -2341,8 +2336,7 @@
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url" : "https://instream.pro/hls2.php?stream=rSGTzi1Alw11TJ",
-               "referer" : "https://soccerstream100.to/",
+		"url" : "https://abbasport.site/movistar2.php",
 			 "isHost":"true" 
                 }, {
 			"name": "Gol TV",
