@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-11-2024)",
+    "author": "chuky (Haz-tu-liada al 18-11-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,61 +19,61 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Phoenix Suns vs Minnesota Timberwolves",
+			"name": "Chicago Bulls vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Miami Heat vs Indiana Pacers",
+                        "name": "Philadelphia 76ers vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Charlotte Hornets vs Cleveland Cavaliers",
+                        "name": "Washington Wizards vs New York Knicks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Detroit Pistons vs Washington Wizards",
+                        "name": "Indiana Pacers vs Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Denver Nuggets vs Memphis Grizzlies",
+			"name": "Houston Rockets vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Atlanta Hawks vs Portland Trail Blazers",
+			"name": "Orlando Magic vs Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                                                      "name": "Brooklyn Nets vs New York Knicks",
+                                                      "name": "Atlanta Hawks vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Houston Rockets vs Chicago Bulls",
+			"name": "Golden State Warriors vs LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Dallas Mavericks vs Oklahoma City Thunder",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Utah Jazz vs LA Clippers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-10/",
@@ -126,73 +126,73 @@
 			"url" : "v.https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Chicago Bears vs Green Bay Packers",
+			"name": "Dallas Cowboys vs Houston Texans",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-01/",
 			"isHost": "true"
                          }, {  
-                        "name": "Detroit Lions vs Jacksonville Jaguars",
+                        "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-02/",
 			"isHost": "true"
                          }, {  
-                         "name": "Miami Dolphins vs Las Vegas Raiders",
+                         "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                          }, {  
-                        "name": "New England Patriots vs Los Angeles Rams",
+                        "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-04/",
 			"isHost": "true"
                         }, {
-			"name": "New Orleans Saints vs Cleveland Browns",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-05/",
 			"isHost": "true"
                         }, {
-			"name": "New York Jets vs Indianapolis Colts",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-06/",
 			"isHost": "true"
                          }, {  
-                         "name": "Pittsburgh Steelers vs Baltimore Ravens",
+                         "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-07/",
 			"isHost": "true"
                         }, {
-			"name": "Tennessee Titans vs Minnesota Vikings",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-08/",
 			"isHost": "true"
                         }, {
-			"name": "Denver Broncos vs Atlanta Falcons",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-09/",
 			"isHost": "true"
                         }, {
-			"name": "San Francisco 49ers vs Seattle Seahawks",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-10/",
 			"isHost": "true"
                         }, {
-			"name": "Buffalo Bills vs Kansas City Chiefs",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-11/",
 			"isHost": "true"
                         }, {
-			"name": "Los Angeles Chargers vs Cincinnati Bengals",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-12/",
@@ -215,31 +215,31 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "St. Louis @ Carolina",
+                        "name": "Columbus @ Boston",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Washington @ Vegas",
+                        "name": "Colorado @ Philadelphia",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "New York @ Seattle",
+			"name": "Edmonton @ Montréal",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Nashville @ Vancouver",
+			"name": "Anaheim @ Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Washington @ Utah",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-5/",
@@ -686,130 +686,129 @@
 		"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",     
 		 "info" : " ",
 		"stations": [{
-                                                      "name" : "7",
-			"name": "Letonia vs Armenia",
+                                                      "name" : "2",
+			"name": "Polonia vs Escocia",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       "url": "https://generalpill.net/embed/vxf0bjocis",
+           	       "url": "https://generalpill.net/embed/h1gn2",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                        }, { 
-			"name": "Letonia vs Armenia",
+			"name": "Polonia vs Escocia",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy1.php",
                                                        "ishost": "true"
                        }, {
-                                                      "name" : "34",
-			"name": "Finlandia vs Grecia",
+                                                      "name" : "3",
+			"name": "Croacia vs Portugal",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpill.net/embed/2mst5yhn7lfqli",
+		      	   "url": "https://generalpill.net/embed/dnva8",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                       }, { 
-			"name": "Finlandia vs Grecia",
+			"name": "Croacia vs Portugal",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy2.php",
                                                        "ishost": "true"
                        }, {
-                                                      "name" : "33",
-			"name": "Austria vs Eslovenia",
+                                                      "name" : "6",
+			"name": "Kosovo vs Lituania",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpill.net/embed/eoq4qqpn",
+		      	   "url": "https://generalpill.net/embed/hr26bz3mkdlt7zl",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                         }, { 
-			"name": "Austria vs Eslovenia",
+			"name": "Kosovo vs Lituania",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy3.php",
                                                        "ishost": "true"
                        }, {
-                                                      "name" : "31",
-			"name": "Macedonia del Norte vs Islas Feroe",
+                                                      "name" : "35",
+			"name": "Liechtenstein vs San Marino",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpill.net/embed/skryn8w1pgh",
+		      	   "url": "https://generalpill.net/embed/v906qlpy",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                      }, { 
-			"name": "Macedonia del Norte vs Islas Feroe",
+			"name": "Liechtenstein vs San Marino",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://sportsurge.stream/embed/footy2.php",
+           	                                      "url": "https://sportsurge.stream/embed/footy4.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "5",
-			"name": "Inglaterra vs República de Irlanda",
+			"name": "Luxemburgo vs Irlanda del Norte",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/o20t6ui616mw1",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                           }, { 
-			"name": "Inglaterra vs República de Irlanda",
+			"name": "Luxemburgo vs Irlanda del Norte",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://sportsurge.stream/embed/footy1.php",
+           	                                      "url": "https://sportsurge.stream/embed/footy5.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "36",
-			"name": "Noruega vs Kazajstán",
+			"name": "Bulgaria vs Bielorrusia",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/egmrcynupb8",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                   }, { 
-			"name": "Noruega vs Kazajstán",
+			"name": "Bulgaria vs Bielorrusia",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://sportsurge.stream/embed/footy4.php",
+           	                                      "url": "https://sportsurge.stream/embed/footy6.php",
                                                        "ishost": "true"
                        }, {
-                                                      "name" : "30 TUDN",
-			"name": "",
+                                                      "name" : "38",
+			"name": "Rumanía vs Chipre",
+			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		      	   "url": "https://generalpill.net/embed/4o8n25qm1duhfl",
+                                             "referer" : "https://bedsport.live/",
+                                                  "isHost" :"true"
+                   }, { 
+			"name": "Rumanía vs Chipre",
+			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+           	                                      "url": "https://sportsurge.stream/embed/footy7.php",
+                                                       "ishost": "true"
+                       }, {
+                                                      "name" : "36",
+			"name": "España vs Suiza",
+			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		      	   "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8",
+                                                       "userAgent": ""
+                         }, { 
+			"name": "España vs Suiza",
+			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+           	                                      "url": "https://sportsurge.stream/embed/footy8.php",
+                                                       "ishost": "true"
+                       }, {
+                                                      "name" : "30",
+			"name": "Serbia vs Dinamarca",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/fgvd9mt1",
                                              "referer" : "https://bedsport.live/",
-                                                  "isHost" :"true"
-                   }, { 
-			"name": "Israel vs Bélgica",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://sportsurge.stream/embed/footy1.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "36",
-			"name": "Italia vs Francia",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpill.net/embed/egmrcynupb8",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                         }, { 
-			"name": "Italia vs Francia",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://sportsurge.stream/embed/footy2.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "60",
-			"name": "Italia vs Francia",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpill.net/embed/tz9fixrutd27d?skin=1",
-                                             "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                            }, { 
-			"name": "",
+			"name": "Serbia vs Dinamarca",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://sportsurge.stream/embed/footy2.php",
+           	                                      "url": "https://sportsurge.stream/embed/footy9.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "23",
