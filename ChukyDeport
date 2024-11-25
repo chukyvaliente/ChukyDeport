@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 24-11-2024)",
+    "author": "chuky (Haz-tu-liada al 25-11-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,49 +19,49 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "New Orleans Pelicans vs Cleveland Cavaliers",
+			"name": "Orlando Magic vs Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Chicago Bulls vs Milwaukee Bucks",
+                        "name": "Toronto Raptors vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Indiana Pacers vs Houston Rockets",
+                        "name": "New Orleans Pelicans vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Philadelphia 76ers vs Memphis Grizzlies",
+                        "name": "Dallas Mavericks vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Portland Trail Blazers vs Oklahoma City Thunder",
+			"name": "LA Clippers vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "New York Knicks vs Phoenix Suns",
+			"name": "Portland Trail Blazers vs Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                                                      "name": "Atlanta Hawks vs Golden State Warriors",
+                                                      "name": "New York Knicks vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Orlando Magic vs LA Clippers",
+			"name": "Brooklyn Nets vs Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-08/",
@@ -126,7 +126,7 @@
 			"url" : "v.https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Dallas Cowboys vs Houston Texans",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nfl-01/",
@@ -215,70 +215,70 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Vegas @ Toronto",
+                        "name": "Dallas @ Carolina",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Carolina @ Philadelphia",
+                        "name": "Colorado @ Tampa Bay",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "San Jose @ Dallas",
+			"name": "Vegas @ Philadelphia",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Nashville @ Seattle",
+			"name": "St. Louis @ New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Buffalo @ Los Angeles",
+                         "name": "Nashville @ New Jersey",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Washington @ Florida",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Detroit @ New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Calgary @ Ottawa",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Winnipeg @ Minnesota",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl9/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Seattle @ Anaheim",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "http://v.markkystreams.com/video/nhl-10/",
+			"url" : "http://v.markkystreams.com/video/nhl10/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Los Angeles @ San Jose",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "http://v.markkystreams.com/video/nhl-11/",
+			"url" : "http://v.markkystreams.com/video/nhl11/",
 			"isHost": "true"
                  }, {
 			"name": "",
@@ -687,98 +687,98 @@
 		 "info" : " ",
 		"stations": [{
                                                       "name" : "2",
-			"name": "Czech Republic vs Georgia",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	       "url": "https://generalpill.net/embed/h1gn2",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                        }, { 
-			"name": "Czech Republic vs Georgia",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy1.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "31",
-			"name": "Malta vs Andorra",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/skryn8w1pgh",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                       }, { 
-			"name": "Malta vs Andorra",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy8.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "35",
-			"name": "Slovakia vs Estonia",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/v906qlpy",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                         }, { 
-			"name": "Slovakia vs Estonia",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy6.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "33",
-			"name": "Hungría vs Alemania",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/eoq4qqpn",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                      }, { 
-			"name": "Hungría vs Alemania",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy5.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "5",
-			"name": "Suecia vs Azerbaijan",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/o20t6ui616mw1",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                           }, { 
-			"name": "Suecia vs Azerbaijan",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy7.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "37",
-			"name": "Albania vs Ukraine",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/mqyperz95",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                   }, { 
-			"name": "Albania vs Ukraine",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy9.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "38",
-			"name": "Montenegro vs Turkey",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/4o8n25qm1duhfl",
                                              "referer" : "https://bedsport.live/",
                                                   "isHost" :"true"
                    }, { 
-			"name": "Montenegro vs Turkey",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy2.php",
@@ -798,28 +798,28 @@
                                                        "ishost": "true"
                        }, {
                                                       "name" : "30",
-			"name": "Bosnia and Herzegovina vs Holanda",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/fgvd9mt1",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                            }, { 
-			"name": "Bosnia and Herzegovina vs Holanda",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                      "url": "https://sportsurge.stream/embed/footy4.php",
                                                        "ishost": "true"
                        }, {
                                                       "name" : "36",
-			"name": "https://generalpill.net/embed/mqyperz95",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://generalpill.net/embed/egmrcynupb8",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                         }, {
-			"name": "https://generalpill.net/embed/mqyperz95",
+			"name": "",
 			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url": "https://sportsurge.stream/embed/footy3.php",
@@ -830,29 +830,32 @@
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",     
 		 "info" : " ",
 		"stations": [{
-			"name": "Pontevedra - Levante",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                   "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	         "url": "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8",
-             "UserAgent": ""
-                       }, { 
-			"name": "Pontevedra - Levante",
+			"name": "Parla Escuela vs Valencia",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       			     "url": "https://lebo.huminbird.cn/live/ballbar_17650.m3u8",
+           	       			     "url" : "https://linearroute.net/embed/re856noa", 
+                         "referer" : "https://bedsport.live/",
+			"isHost" : "true"
+                       }, {
+			"name": "Parla Escuela vs Valencia",
+			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		      	   "url" :  "https://linearroute.net/embed/hzsw0yityofp0y",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                           }, { 
+                                                      "name": "Manises CF - Getafe",
+			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+           	                                      "url": "https://play1nm.hnyongshun.cn/live/ballbar_39490.m3u8",
              "UserAgent": ""
                        }, {
-			"name": "",
+			"name": "Manises CF - Getafe",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	"url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_720.m3u8",
-			"userAgent": ""
-                     }, {
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	"url": "https://play1nm.hnyongshun.cn/live/ballbar_35990.m3u8",
-			"userAgent": ""
+		      	   "url" :  "https://browncrossing.net/embed/6na79kddf",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
                        }, {
 			"name": "",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
@@ -1223,149 +1226,157 @@
 		"info": "",
 		"stations": [{
                                                        "name": "Campeones 2",
-			"name": "Club Brugge vs Aston Villa",
+			"name": "Bayern München vs PSG",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
                                                      "url" :  "https://mylivestream.pro/bettaa.php?stream=3IjUKOlzLB2T",
 		                  "referer" : "https://aliezstream.pro/",
 			 "isHost":"true"
                     }, {
                                                        "name": "Campeones 2",
-			"name": "Club Brugge vs Aston Villa",
+			"name": "Bayern München vs PSG",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                "url" :  "https://linearroute.net/embed/xfkc2i",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                    }, {
                                                       "name": "Campeones 3", 
-			"name": "Shakhtar Donetsk vs Young Boys",
+			"name": "Slovan Bratislava vs Milan",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" :  "https://linearroute.net/embed/52g8nnqi37bly6",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {
                                                       "name": "29",
-			"name": "Shakhtar Donetsk vs Young Boys",
+			"name": "Slovan Bratislava vs Milan",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			 "url" :  "https://generalpill.net/embed/wnm78ydq",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                                                       }, {
                                                       "name": "Campeones ",
-			"name": "PSG vs Atlético Madrid",
+			"name": "Sparta Praha vs Atlético Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			"url" : "https://generalpill.net/embed/av8q3fwxcb",
                                                      "referer" : "https://bedsport.live/",
                                                       "isHost": "true"  
-                            }, {
-                                                      "name": "Campeones ",
-			"name": "PSG vs Atlético Madrid",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url" : "https://www.sportsbay.dk/futbol/uefa-champions-league-psg-vs-atletico-de-madrid.html",
-			 "isHost":"true"
                      }, {
                                                       "name": "Campeones 61 ",
-			"name": "PSG vs Atlético Madrid",
+			"name": "Sparta Praha vs Atlético Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			"url" :  "https://linearroute.net/embed/opthng68di66m",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                           }, {
-                                                      "name": "Campeones  ",
-			"name": "Crvena Zvezda vs Barcelona",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		      "url" :  "https://sportsonline.sx/channels/hd/hd6.php",
-		"referer" : "https://channels-1op.pages.dev/",
-			 "isHost":"true"
-                          }, {
                                                       "name": "Campeones ",
-			"name": "Crvena Zvezda vs Barcelona",
+			"name": "Barcelona vs Brest",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                    "url" :  "https://freckledine.net/embed/x2qidlx7",
 		                  "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                          }, {
                                                       "name": "Campeones ",
-			"name": "Crvena Zvezda vs Barcelona",
+			"name": "Barcelona vs Brest",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" :  "https://mylivestream.pro/bettaa.php?stream=3IjUKOlzLB2T",
 		                  "referer" : "https://aliezstream.pro/",
 			 "isHost":"true"
                      }, {
                                                        "name": "Campeones 5-65 ",
-			"name": "Bayern München vs Benfica",
+			"name": "Barcelona vs Brest",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url" :  "https://linearroute.net/embed/cmms5rk1",
+			"url" :  "https://linearroute.net/embed/opthng68di66m",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                       }, {
-                                                      "name": "40",
-			"name": "Bayern München vs Benfica",
+                                                      "name": "19",
+			"name": "Barcelona vs Brest",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url" : "https://generalpill.net/embed/xdpq3ptcuts1qpp", 
-                                                      "referer" : "https://bedsport.live/",
-			"isHost" : "true"
+		                "url" : "https://generalpill.net/embed/av8q3fwxcb",
+                                                     "referer" : "https://bedsport.live/",
+                                                      "isHost": "true"  
+                                                }, {
+                                                      "name": "Campeones  ",
+			"name": "Barcelona vs Brest",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		      "url" :  "https://sportsonline.sx/channels/hd/hd6.php",
+		"referer" : "https://channels-1op.pages.dev/",
+			 "isHost":"true"
                      }, {
                                                       "name": "Campeones 7 ",
-			"name": "Feyenoord vs Salzburg",
+			"name": "Internazionale vs RB Leipzig",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://linearroute.net/embed/89ftq8ua1j5lr",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                              }, {
                                                       "name": "49",
-			"name": "Feyenoord vs Salzburg",
+			"name": "Internazionale vs RB Leipzig",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://generalpill.net/embed/1y3rog39gf48pz", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
                                                       "name": "Campeones 3 ",
-			"name": "Internazionale vs Arsenal",
+			"name": "Manchester City vs Feyenoord",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://linearroute.net/embed/52g8nnqi37bly6",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                       }, {
-                                                      "name": "48",
-			"name": "Internazionale vs Arsenal",
+                                                      "name": "29",
+			"name": "Manchester City vs Feyenoord",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url" : "https://generalpill.net/embed/ofdz1", 
-                                                      "referer" : "https://bedsport.live/",
-			"isHost" : "true"
+		                 "url" :  "https://generalpill.net/embed/wnm78ydq",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
                        }, {
-                                                      "name": "Campeones 8- ",
-			"name": "Sparta Praha vs Brest",
+                                                      "name": "Campeones 8-48 ",
+			"name": "Young Boys vs Atalanta",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url" : "https://generalpill.net/embed/y2zqxm4v5jx4?skin=1", 
+			  "url" : "https://linearroute.net/embed/ofdz1", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
                                                       "name": "Campeones 8 ",
-			"name": "Sparta Praha vs Brest",
+			"name": "Young Boys vs Atalanta",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://linearroute.net/embed/105qqn",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                              }, {
                                                       "name": "campeones 6",
-			"name": "Stuttgart vs Atalanta",
+			"name": "Bayer Leverkusen vs Salzburg",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://linearroute.net/embed/gagr8b", 
                                                       "referer" : "https://tarjetarojaenvivo.lat/",
 			"isHost" : "true"
                      }, {
                                                       "name": "Campeones 6-59 ",
-			"name": "Stuttgart vs Atalanta",
+			"name": "Bayer Leverkusen vs Salzburg",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			 "url" : "https://generalpill.net/embed/lw7vl?skin=1", 
                                                        "referer" : "https://bedsport.live/",
 			"isHost" : "true"
+                                         }, {
+                                                      "name": "Campeones 5", 
+			"name": "Sporting CP vs Arsenal",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://linearroute.net/embed/opthng68di66m",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": "16",
+			"name": "Sporting CP vs Arsenal",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://linearroute.net/embed/ycg0h845uvx",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
                                             
                                               }, {
-                                                      "name": "60",
+                                                      "name": "24",
                                                       "name": "Multichampions",
 			"image": "https://a.espncdn.com/photo/2023/0830/r1217896_1295x729_16-9.png",
-		                  "url" : "https://generalpill.net/embed/tz9fixrutd27d?skin=11", 
+		                  "url" : "https://linearroute.net/embed/sr3yoc3x", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
@@ -1397,8 +1408,8 @@
 			"name": "La Liga (opción 4)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                    "url" : "https://generalpill.net/embed/xdpq3ptcuts1qpp", 
-                         "referer" : "https://bedsport.live/",
+                                   "url" : "https://generalpill.net/embed/xdpq3ptcuts1qpp", 
+                                                      "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                           }, {
 			"name": "La Liga (opción 5)",
@@ -1662,12 +1673,13 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
 			}, {
+                      "name": "30",
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	  "url" : "https://generalpill.net/embed/ofdz1", 
-                                                      "referer" : "https://bedsport.live/",
-			"isHost" : "true"
+	  "url": "https://generalpill.net/embed/fgvd9mt1",
+                                             "referer" : "https://bedsport.live/",
+                                                       "ishost": "true"
                         }, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
@@ -2820,36 +2832,36 @@
               "name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 		 "url" :  "https://sportsonline.sx/channels/pt/sporttv1.php",
-		"referer" : "https://channels-1op.pages.dev/",
+		 		 "url" :  "https://forgepattern.net/embed/em3nxmuk",
+		"referer" : "https://elixx.soccer/",
 			 "isHost":"true"
 		}, {
              "name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 		 "url" :  "https://sportsonline.sx/channels/pt/sporttv2.php",
-		"referer" : "https://channels-1op.pages.dev/",
+			 		 "url" :  "https://forgepattern.net/embed/oxwourlf4th",
+		"referer" : "https://elixx.soccer/",
 			 "isHost":"true"
           }, {
              "name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 		 "url" :  "https://sportsonline.sx/channels/pt/sporttv3.php",
-		"referer" : "https://channels-1op.pages.dev/",
+			 		 "url" :  "https://forgepattern.net/embed/2fowdz6t2zl",
+		"referer" : "https://elixx.soccer/",
 			 "isHost":"true"
           }, {
               "name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  		 "url" :  "https://sportsonline.sx/channels/pt/sporttv4.php",
-		"referer" : "https://channels-1op.pages.dev/",
+			  		 "url" :  "https://forgepattern.net/embed/k7x56qf8",
+		"referer" : "https://elixx.soccer/",
 			 "isHost":"true"
                 }, {
               "name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 		 "url" :  "https://sportsonline.sx/channels/pt/sporttv5.php",
-		"referer" : "https://channels-1op.pages.dev/",
+			 		 "url" :  "https://forgepattern.net/embed/k8lq8in1xkknj",
+		"referer" : "https://elixx.soccer/",
 			 "isHost":"true"
                 }, {
              "name": "Eleven 1",
