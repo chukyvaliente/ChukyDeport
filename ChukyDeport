@@ -1264,6 +1264,20 @@
 			 "url" :  "https://cdn.gabitotv.com/02.php",
 		                  "referer" : "https://cdn.gabitotv.com/ch02.php",
 			 "isHost":"true"
+                      }, {
+                                                      "name": "Campeones 61 ",
+			"name": "Sparta Praha vs Atlético Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"url" :  "https://freckledine.net/embed/x2qidlx7",
+		                  "referer" : "https://elixx.soccer/",
+			 "isHost":"true"
+                          }, {
+                                                      "name": "Campeones ",
+			"name": "Barcelona vs Brest",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                   "url" :  "https://freckledine.net/embed/x2qidlx7",
+		                  "referer" : "https://elixx.soccer/",
+			 "isHost":"true"
                      }, {
                                                       "name": "Campeones 61 ",
 			"name": "Sparta Praha vs Atlético Madrid",
