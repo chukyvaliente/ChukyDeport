@@ -1245,9 +1245,15 @@
 		                  "url" :  "https://linearroute.net/embed/52g8nnqi37bly6",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
-                     }, {
+                            }, {
                                                       "name": "29",
 			"name": "Slovan Bratislava vs Milan",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://generalpill.net/embed/wnm78ydq",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                     }, {
+			"name": "Sparta Praha vs Atlético Madrid",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			 "url" :  "https://streamingon.org/embed/hd-1.php",
 			 "isHost":"true"
@@ -1297,9 +1303,8 @@
                                                       "name": "Campeones  ",
 			"name": "Barcelona vs Brest",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		      "url" :  "https://streamingon.org/hls4.php?stream=NFLHD1",
-                                                        "referer" : "https://streamingon.org/embed/hd-1.php",
-			 "isHost":"true"
+		      "url" :  "https://instreamed.ru.com:8089/hls/NFLHD1/index.m3u8?st=A-igCJMbJ7kDxuockhilsA&e=1732656439",
+			 "userAgent":""
                      }, {
                                                       "name": "Campeones 7 ",
 			"name": "Internazionale vs RB Leipzig",
