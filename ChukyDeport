@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 25-11-2024)",
+    "author": "chuky (Haz-tu-liada al 26-11-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,49 +19,49 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Orlando Magic vs Charlotte Hornets",
+			"name": "Chicago Bulls vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Toronto Raptors vs Detroit Pistons",
+                        "name": "Milwaukee Bucks vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "New Orleans Pelicans vs Indiana Pacers",
+                        "name": "Houston Rockets vs Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Dallas Mavericks vs Atlanta Hawks",
+                        "name": "San Antonio Spurs vs Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "LA Clippers vs Boston Celtics",
+			"name": "Los Angeles Lakers vs Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Portland Trail Blazers vs Memphis Grizzlies",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                                                      "name": "New York Knicks vs Denver Nuggets",
+                                                      "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Brooklyn Nets vs Golden State Warriors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
 			"url" : "http://v.markkystreams.com/video/nba-08/",
@@ -215,67 +215,67 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Dallas @ Carolina",
+                        "name": "Vancouver @ Boston",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Colorado @ Tampa Bay",
+                        "name": "Utah @ Montréal",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://v.markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Vegas @ Philadelphia",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "St. Louis @ New York",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Nashville @ New Jersey",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Washington @ Florida",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Detroit @ New York",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Calgary @ Ottawa",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "Winnipeg @ Minnesota",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl9/",
 			"isHost": "true"
                }, {
-			"name": "Seattle @ Anaheim",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl10/",
 			"isHost": "true"
                }, {
-			"name": "Los Angeles @ San Jose",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "http://v.markkystreams.com/video/nhl11/",
