@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 05-12-2024)",
+    "author": "chuky (Haz-tu-liada al 07-12-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -15,106 +15,7 @@
 		"image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
 		"info": "",
 		"stations": [{
-        "name": "Partidos NBA 🏀",
-			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
-			"userAgent": ""
-		}, {
-			"name": "Heat @ Celtics",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-01/",
-			"isHost": "true"
-                 }, {  
-                        "name": "Pelicans @ Hawks",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-02/",
-			"isHost": "true"
-               }, {  
-                        "name": "Lakers @ Timberwolves",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-03/",
-			"isHost": "true"
-               }, {  
-                        "name": "Nets @ Bulls",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-04/",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-05/",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-06/",
-			"isHost": "true"
-              }, {  
-                                                      "name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-07/",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-08/",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-09/",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-10/",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-11/",
-			"isHost": "true"
-               }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg", 
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-12/",
-			"isHost": "true"
-               }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-13/",
-			"isHost": "true"
-                 }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-14/",
-			"isHost": "true" 
-                    }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ", 
-			"url" : "http://v.markkystreams.com/video/nba-15/",
-			"isHost": "true" 
-                                              },{
-                    "name": "Clika para ver la programación",
-                    "embed": "true",
-                    "url": "https://es.global.nba.com/schedule/",
-                    "image": "https://i0.wp.com/deportes24.live/wp-content/uploads/2021/02/NBA-TV-StarSat.jpg"
-                }, {
-               "name": "Clika el logo tu equipo o el coontrario",
+                                                     "name": "Clika el logo de tu equipo o del coontrario",
 			"image": "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0432.gif",
 			"url" : "https://www.google.es/",
 			"isHost": "true"
@@ -2839,45 +2740,45 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"info": "",
 		"stations": [{
-                    "name": "Unionistas - Barakaldo",
+                    "name": " Alcoyano -  At. Sanluqueño ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
-          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024196/r.html?icg=RVM&ilang=es",
+          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024614/r.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": "Antequera - Recreativo de Huelva",
+                    "name": " G. Segoviana - Unionistas ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024607/c.html?icg=RVM&ilang=es",
+          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024201/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                       },{
-                                        "name": "Intercity - Alcorcón",
+                                        "name": "Alcorcón - Antequera",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024606/r.html?icg=RVM&ilang=es",
+          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024611/r.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": "Nastic - Cultural Leonesa",
+                    "name": " Real Unión -  Bilbao Athletic ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024195/c.html?icg=RVM&ilang=es",
+          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024206/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                                    }, {
-                                     "name": "",
+                                     "name": " Recreativo Huelva - Intercity ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024200/c.html?icg=RVM&ilang=es",
+          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024216/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                            },{
-                    "name": "",
+                    "name": " Zamora - Ourense CF ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024608/c.html?icg=RVM&ilang=es",
+          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024207/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                           },{
-                    "name": "",
+                    "name": " Sevilla At - Fuenlabrada ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024190/c.html?icg=RVM&ilang=es",
+          "url" :  "https://niaqq.forgottenheading8x14.shop/es/football/spanish-primera-division-rfef-4024617/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                           }]
                               }, {
