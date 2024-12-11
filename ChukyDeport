@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 10-12-2024)",
+    "author": "chuky (Haz-tu-liada al 11-12-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,14 +19,14 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Milwaukee Bucks vs Orlando Magic ",
+			"name": "New York Knicks vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Oklahoma City Thunder vs Dallas Mavericks",
+                        "name": "Houston Rockets vs Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online/embed/nba1.php",
+			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
                         "name": "",
@@ -1347,141 +1347,142 @@
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
+                                                         "name": "26", 
                                                        "name": "Campeones 2",
-			"name": "Bayer Leverkusen vs Internazionale",
+			"name": "Juventus vs Manchester City",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url" :  "https://generalpilli.net/embed/xdpq3ptcuts1qpp",
+                                                   "url" :  "https://generalpilli.net/embed/3d44n21uf8pkocd",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                     }, {
                                                        "name": "Campeones 2",
-			"name": "Bayer Leverkusen vs Internazionale",
+			"name": "Juventus vs Manchester City",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                "url" :  "https://linearroute.net/embed/xfkc2i",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                    }, {
                                                       "name": "Campeones 3", 
-			"name": "Dinamo Zagreb vs Celtic",
+			"name": "Lille vs Sturm Graz",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" :  "https://linearroute.net/embed/52g8nnqi37bly6",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                             }, {
                                                       "name": "29",
-			"name": "Dinamo Zagreb vs Celtic",
+			"name": "Lille vs Sturm Graz",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                 "url" :  "https://generalpilli.net/embed/wnm78ydq",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                      }, {
-			"name": "Girona vs Liverpool / Atalanta vs Real Madrid",
+			"name": "Atlético Madrid vs Slovan Bratislava / Borussia Dortmund vs Barcelona",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			 "url" :  "https://streamingon.org/embed/hd-1.php",
 			 "isHost":"true"
                                                     }, {
                                                       "name": "Campeones 61 ",
-			"name": "Girona vs Liverpool / Atalanta vs Real Madrid",
+			"name": "Atlético Madrid vs Slovan Bratislava / Borussia Dortmund vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			"url" :  "https://freckledine.net/embed/x2qidlx7",
 		                  "referer" : "https://elixx.soccer/",
 			 "isHost":"true"
                                                       }, {
                                                       "name": "Campeones ",
-			"name": "Girona vs Liverpool / Atalanta vs Real Madrid",
+			"name": "Atlético Madrid vs Slovan Bratislava / Borussia Dortmund vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url" :  "https://cdn.gabitotv.com/06.php",
-		                  "referer" : "https://cdn.gabitotv.com/ch06.php",
+			 "url" :  "https://cdn.gabitotv.com/08.php",
+		                  "referer" : "https://cdn.gabitotv.com/ch08.php",
 			 "isHost":"true"
                           }, {
                                                       "name": "Campeones ",
-			"name": "Girona vs Liverpool / Atalanta vs Real Madrid",
+			"name": "Atlético Madrid vs Slovan Bratislava / Borussia Dortmund vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                   "url" :  "https://freckledine.net/embed/x2qidlx7",
 		                  "referer" : "https://elixx.soccer/",
 			 "isHost":"true"
                      }, {
                                                       "name": "Campeones 61 ",
-			"name": "Girona vs Liverpool / Atalanta vs Real Madrid",
+			"name": "Atlético Madrid vs Slovan Bratislava / Borussia Dortmund vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			"url" :  "https://linearroute.net/embed/opthng68di66m",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                           }, {
                                                       "name": "Campeones ",
-			"name": "Girona vs Liverpool / Atalanta vs Real Madrid",
+			"name": "Atlético Madrid vs Slovan Bratislava / Borussia Dortmund vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                    "url" : "https://generalpilli.net/embed/av8q3fwxcb",
                                                      "referer" : "https://bedsport.live/",
                                                       "isHost": "true" 
                      }, {
                                                       "name": "Campeones 7 ",
-			"name": "Club Brugge vs Sporting CP",
+			"name": "Stuttgart vs Young Boys",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://linearroute.net/embed/89ftq8ua1j5lr",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                              }, {
-                                                      "name": "26",
-			"name": "Club Brugge vs Sporting CP",
+                                                      "name": "70",
+			"name": "Stuttgart vs Young Boys",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd", 
+		                  "url" : "https://generalpilli.net/embed/zid010yj?skin=1", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
                                                       "name": "Campeones 3 ",
-			"name": "Salzburg vs PSG",
+			"name": "Arsenal vs Monaco",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://linearroute.net/embed/52g8nnqi37bly6",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                       }, {
                                                       "name": "29",
-			"name": "Salzburg vs PSG",
+			"name": "Arsenal vs Monaco",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                 "url" :  "https://generalpilli.net/embed/wnm78ydq",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                        }, {
-                                                      "name": "Campeones 8-48 ",
-			"name": "Brest vs PSV",
+                                                      "name": "Campeones 8-68 ",
+			"name": "Feyenoord vs Sparta Praha",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url" : "https://linearroute.net/embed/ofdz1", 
+			  "url" : "https://generalpilli.net/embed/y2zqxm4v5jx4?skin=1", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
                                                       "name": "Campeones 8 ",
-			"name": "Brest vs PSV",
+			"name": "Feyenoord vs Sparta Praha",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://linearroute.net/embed/105qqn",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                              }, {
                                                       "name": "campeones 6",
-			"name": "Shakhtar Donetsk vs Bayern München",
+			"name": "Benfica vs Bologna",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://linearroute.net/embed/gagr8b", 
                                                       "referer" : "https://tarjetarojaenvivo.lat/",
 			"isHost" : "true"
                      }, {
-                                                      "name": "Campeones 6-70 ",
-			"name": "Shakhtar Donetsk vs Bayern München",
+                                                      "name": "Campeones 6-40 ",
+			"name": "Benfica vs Bologna",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url" : "https://generalpilli.net/embed/zid010yj?skin=1", 
+			 "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp", 
                                                        "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                                          }, {
                                                       "name": "Campeones 5", 
-			"name": "RB Leipzig vs Aston Villa",
+			"name": "Milan vs Crvena Zvezda",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                 "url" :  "https://linearroute.net/embed/opthng68di66m",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {
-                                                      "name": "49",
-			"name": "RB Leipzig vs Aston Villa",
+                                                      "name": "69",
+			"name": "Milan vs Crvena Zvezda",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-			 "url" :  "https://generalpilli.net/embed/1y3rog39gf48pz",
+			 "url" :  "https://generalpilli.net/embed/uj4cqt9ou631o?skin=1",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                                             
