@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 12-12-2024)",
+    "author": "chuky (Haz-tu-liada al 13-12-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,17 +19,17 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Boston Celtics vs Detroit Pistons",
+			"name": "Milwaukee Bucks vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Miami Heat vs Toronto Raptors",
+                        "name": "Oklahoma City Thunder vs Houston Rockets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "New Orleans Pelicans vs Sacramento Kings",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
@@ -260,7 +260,7 @@
 			"url" : "https://flstv.online//embed/red.php",
 			"isHost": "true"
                          }, {  
-			"name": "San Francisco 49ers vs Los Angeles Rams",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
@@ -565,7 +565,7 @@
                      "name": "Evento 1",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               	       	   "url" : "https://v.markkystreams.com/video/boxing-1/",
+               	       	   "url" : "https://sportsurge.stream/embed/boxing.php",
              "isHost": "true"    
                     },{
                  "name": "Evento 1(op2)",
@@ -592,8 +592,7 @@
                  "name": "evento 3 MMA/UFC",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	   "url" :  "https://wwwstream.pro/bettaa.php?stream=9gSZoyFska",
-		"referer" : "https://aliezstream.pro/",
+                  	   "url" :  "https://gamelink.ru.com/embed/hd-21.php",
 			 "isHost":"true"
                         },{
                  "name": "evento 4 MMA/UFC",
@@ -613,7 +612,7 @@
                  "name": "evento 6 Boxeo",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                 	"url" :  "https://gamelink.ru.com/embed/hd-20.php",
+                 	"url" :  "https://gamelink.ru.com/embed/hd-21.php",
 			 "isHost":"true"
 	             },{ 
                  "name": "evento 7 Boxeo",
@@ -635,14 +634,13 @@
                  "name": "evento 9 Boxeo",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url" :  "https://35rr2l4rh003d5m.kettlescrape.net/embed/2ov0r1",
-		"referer" : "https://v5.sportsonline.si/",
+                    "url" :  "https://flstv.online//embed/boxing3.php",
 			 "isHost":"true"
                         },{ 
                  "name": "evento 10 Boxeo",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" : "https://flstv.online//embed/boxing1.php",
+                  "url" : "https://flstv.online//embed/boxing2.php",
              "isHost": "true"
                        },{ 
                  "name": "Evento 11 WWE",
@@ -1105,18 +1103,19 @@
                        "referer" : "https://intac.pro/",
              "isHost": "true"       
                 },{ 
+                    "name": "lat67",
                     "name": "Opción 2(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            	 "url" : "https://catercollege.net/embed/z626qaml2",
+            	 "url" : "https://catercollege.net/embed/89ftq8ua1j5lr",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                 },{
-                 "name": "Opción 1(Vamos) 170",
+                 "name": "lat70",
                  "name": "Opción 1(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url" : "https://catercollege.net/embed/i8xuof32t8falvg", 
+                   "url" : "https://catercollege.net/embed/rq4g6", 
                          "referer" : "https://footdirect.ru/",
 			"isHost" : "true"
                     },{ 
@@ -1525,11 +1524,13 @@
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                           }, {
+			"name": "La Liga (sportzonline)",
 			"name": "La Liga (opción 3)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url": "https://d12.jisdeshmaiganga.com:999/hls/mosasuna.m3u8?md5=4UBZ_zB81qJUmXO00R2T7g&expires=1733691158",
-             "usergent": ""
+			  "url" :  "https://forgepattern.net/embed/l57xdb4wvi930cf",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
                          }, {
                         "name" : "prueva stream",
 			"name": "La Liga (opción 4)",
@@ -1655,11 +1656,13 @@
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                         }, {
+ 			"name": "65",
 			"name": "La Seguda división España (opción 8)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://allcaster.pro:8089/hls/0bcFtdYyG5Qe.m3u8?st=XTU5HGCIx2vukqNET5PN_VdOjTm3OXc_VLYkgAga9HY&e=1731189628",
-			"userAgent" : ""
+			                "url" : "https://generalpilli.net/embed/3m7hwt6jr4?skin=1",
+                    "referer" : "https://bedsport.live/",
+			"isHost" : "true"
 	              }, {
 			"name": "La Seguda división España (opción 9)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
@@ -1804,10 +1807,11 @@
               "url" : "https://rockhd.lol/live/stream-446.php",
              "isHost": "true"  
 	           },{ 
+                 "name": "26",
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                       "url" : "https://generalpilli.net/embed/fgvd9mt1",
+                                       "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                                        },{ 
@@ -2091,7 +2095,7 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
                       }, {
-                                                        "name": "29",
+                                                        "name": "30",
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -2106,11 +2110,11 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                     }, {
-                                                       "name" : "26",
+                                                       "name" : "30",
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
+			       "url" : "https://generalpilli.net/embed/fgvd9mt1",
              "referer" : "https://bedsport.live/",
             "isHost": "true"  
                       }, {
@@ -2128,11 +2132,11 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                     }, {
-                                                     "name": "30",  
+                                                     "name": "26",  
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			 "url" : "https://generalpilli.net/embed/fgvd9mt1",
+ 			 "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
             }, {
@@ -2415,9 +2419,9 @@
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://catercollege.net/embed/i8xuof32t8falvg", 
-                         "referer" : "https://footdirect.ru/",
-			"isHost" : "true"
+                      "url" : "https://closedjelly.net/embed/rq4g6", 
+                      "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
            }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
@@ -2452,11 +2456,11 @@
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                            }, {  			
-                                                       "name": "M-Deportes 171",
+                                                       "name": "M-Deportes 67",
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       			     "url" : "https://catercollege.net/embed/z626qaml2",
+	       			     "url" : "https://catercollege.net/embed/89ftq8ua1j5lr",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {  
@@ -2467,11 +2471,11 @@
                        "referer" : "https://intac.pro/",
              "isHost": "true"       
                     }, {
-			"name": "M-Deportes 172",                           
+			"name": "lat68",                           
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	    "url" : "https://catercollege.net/embed/mghhbpxvh",
+	    "url" : "https://catercollege.net/embed/105qqn",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                        }, {
