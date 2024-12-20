@@ -996,6 +996,13 @@
             "image": "https://i.ibb.co/J7ZM8v6/acb-euroliga.jpg",
             "info": "",
             "stations": [{
+                    "name": "Opción 1bis(M-Deportes)",
+                    "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                          "url" : "https://generalpilli.net/embed/1y3rog39gf48pz",
+                       "referer" : "https://bedsport.live/",
+             "isHost": "true"       
+                },{ 
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -2304,6 +2311,14 @@
 			          "url" :  "https://linearroute.net/embed/xfkc2i",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
+                            }, {  			
+                                                       "name": "M-Deportes 67",
+			"name": "M-Deportes bis",
+			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                            "url" : "https://generalpilli.net/embed/1y3rog39gf48pz",
+                       "referer" : "https://bedsport.live/",
+             "isHost": "true"       
                            }, {  			
                                                        "name": "M-Deportes 67",
 			"name": "M-Deportes",
