@@ -2626,7 +2626,7 @@
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		   "url" : "'https://streamtp2.com/global1.php?stream=tnt_3_gb",
+		   "url" : "https://streamtp2.com/global1.php?stream=tnt_3_gb",
             "isHost": "true"  
                                                 }, {
 			"name": "TNT Sport 4",
@@ -2635,6 +2635,87 @@
 				"url" : "https://streamtp2.com/global1.php?stream=tnt_4_gb",
 			 "isHost":"true" 
 		}]
+                                                      }, {
+		"name": "Zona Bein Sport 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+		"image": "https://www.movilzona.es/app/uploads-movilzona.es/2015/10/BeIN-Sports-930x487.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		"info": "",
+		"stations": [{
+                    "name": "Bein Sport Ñ",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                   "url" : "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+			 "userAgent":""
+                                                                                     },{
+                    "name": "Bein Sport-1",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
+          "url" :  "https://catercollege.net/embed/ysagetp2j4x",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+				},{
+                    "name": "Bein Sport-2",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",
+                                                   "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               "url" :  "https://catercollege.net/embed/wedpl8t",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                                                      },{
+                                        "name": "Bein Sport-3",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",
+                                                   "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+          "url" :  "https://catercollege.net/embed/v2db7kg",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+				},{
+                    "name": "Bein Sport-4",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+         "url" :  "https://catercollege.net/embed/91qmzwr",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                                                                   }, {
+                                     "name": "Bein Sport-5",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/2560px-Logo_BeinSports_5_MAX.svg.png",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        "url" :  "https://catercollege.net/embed/0bsnj0w5s",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                                                           },{
+                    "name": "Bein Sport-6",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Logo_BeinSports_6_MAX.svg/2560px-Logo_BeinSports_6_MAX.svg.png",
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+           "url" :  "https://catercollege.net/embed/brilq81faz0axa",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                                                          },{
+                    "name": "Bein Sport-7",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo-Beinsports-7MAX.png",
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+          "url" :  "https://catercollege.net/embed/tyb9c9jdgtqhn5",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                                                           },{
+                    "name": "Bein Sport-8",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png",
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+         "url" :  "https://catercollege.net/embed/xlzl5is",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                                                          },{
+                    "name": "Bein Sport-9",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo-Beinsports-9MAX.png",
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+         "url" :  "https://catercollege.net/embed/n2u9e0v",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                                                          },{
+                    "name": "Bein Sport-10",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logo-Beinsports-10MAX.png",
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+          "url" :  "https://catercollege.net/embed/1tol4",
+                              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost" : "true"   
+                          }]
 			}, {
 		"name": "Primera RFEF 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​© [Móvil-Ordenador]",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_Primera_RFEF.jpg",
