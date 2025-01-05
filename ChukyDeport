@@ -94,7 +94,7 @@
 			"url" : "https://flstv.online/embed/nba15.php",
 			"isHost": "true" 
                                }, {
-                                                     "name": "Clika el logo de tu equipo o del coontrario",
+                                                     "name": "Clika el logo de tu equipo o del contrario",
 			"image": "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0432.gif",
 			"url" : "https://www.google.es/",
 			"isHost": "true"
@@ -344,7 +344,7 @@
 			"url" : "https://flstv.online//embed/nfl1.php",
 			"isHost": "true"   
                         }, {
-                                                     "name": "Clika el logo de tu equipo o del coontrario",
+                                                     "name": "Clika el logo de tu equipo o del contrario",
 			"image": "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0432.gif",
 			"url" : "https://www.google.es/",
 			"isHost": "true"
@@ -359,6 +359,186 @@
 			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://givemereddit.eu/nfl/titans.html",
+			"isHost": "true"   
+                                  }, {
+			"name": "Texans",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/texans.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Panthers",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/panthers.html",
+			"isHost": "true"   
+                                    }, {
+			"name": "Buccaneers",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/buccaneers.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Saints",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/saints.html",
+			"isHost": "true"   
+                                  }, {
+			"name": "Patriots",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/patriots.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Bills",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/bills.html",
+			"isHost": "true"   
+                                    }, {
+			"name": "Colts",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/colts.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Jaguars",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/jaguars.html",
+			"isHost": "true"   
+                                  }, {
+			"name": "Cowboys",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/cowboys.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Commanders",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/commanders.html",
+			"isHost": "true"   
+                                    }, {
+			"name": "Eagles",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/eagles.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Giants",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/giants.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Packers",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/packers.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Bears",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/bears.html",
+			"isHost": "true"   
+                                  }, {
+			"name": "Rams",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/rams.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Seahawks",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/seahawks.html",
+			"isHost": "true"   
+                                    }, {
+			"name": "Jets",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/jets.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Dolphins",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/dolphins.html",
+			"isHost": "true"   
+                                  }, {
+			"name": "Broncos",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/broncos.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Chiefs",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/chiefs.html",
+			"isHost": "true"   
+                                    }, {
+			"name": "Raiders",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/raiders.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Chargers",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/chargers.html",
+			"isHost": "true"   
+                                  }, {
+			"name": "Cardinals",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/cardinals.html",
+			"isHost": "true"   
+                                }, {
+			"name": "49ers",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/49ers.html",
+			"isHost": "true"   
+                                    }, {
+			"name": "Lions",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/lions.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Vikings",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/vikings.html",
+			"isHost": "true"   
+                                     }, {
+			"name": "Bengals",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/bengals.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Pittsburgh",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/pittsburgh.html",
+			"isHost": "true"   
+                                     }, {
+			"name": "Cleveland",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/cleveland.html",
+			"isHost": "true"   
+                                }, {
+			"name": "Baltimore",
+			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://givemereddit.eu/nfl/baltimore.html",
 			"isHost": "true"   
 		}]
                    },{
