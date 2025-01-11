@@ -2045,6 +2045,16 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            		 "url" :  "https://usgate.xyz/z/p2p/az10.php",
 			 "isHost":"true"  
+                                         }, {
+			"name": "Motor Manu (Android)",		
+                      "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",	 "url":"https://vkvsd96.okcdn.ru/hls/7542550235674.m3u8/sig/xxmWwUk5yd4/srcIp/37.14.45.69/urls/45.136.21.66/expires/1737073115227/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8951130762010/id/7542550235674/7542550235674_high/index.m3u8",
+             "userAgent": ""	
+                       }, {
+			"name": "Motor Manu (Iphone)",		
+                      "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",	 "url":"https://vkvsd96.okcdn.ru/hls/7542550235674.m3u8/sig/HswXxC0gB_U/expires/1736700243432/srcIp/37.14.45.69/urls/45.136.21.66/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/8951130762010/7542550235674_high/index.m3u8",
+             "userAgent": ""	
                         }, {
 			"name": "Carrera sprint Moto GP Australia diferido",		
                       "image":"https://rk-europe.com/wp-content/uploads/2019/10/54804e34988c61.83677317.png",
@@ -2126,6 +2136,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"url" : "https://emb.apl357.me/player/live.php?id=224553&w=100%&h=100%",
 			 "isHost":"true"  
+                                       }, {
+			"name": "AMA Motocross",
+			"image": "https://ih1.redbubble.net/image.1574965289.8501/raf,750x1000,075,t,101010:01c5ca27c6.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		"url" : "https://p@fs.fscdn.fun/event1-peacock/tracks-v1a1/mono.m3u8",
+			 "userAgent":""  
                                     }, {
 			"name": "AMA Motocross (Móvil/PC)",
 			"image": "https://ih1.redbubble.net/image.1574965289.8501/raf,750x1000,075,t,101010:01c5ca27c6.jpg",
