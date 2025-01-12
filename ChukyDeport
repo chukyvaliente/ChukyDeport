@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 11-01-2025)",
+    "author": "chuky (Haz-tu-liada al 12-01-2025)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,49 +19,49 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Indiana Pacers vs Golden State Warriors",
+			"name": "Dallas Mavericks vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Orlando Magic vs Milwaukee Bucks",
+                        "name": "New York Knicks vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Philadelphia 76ers vs New Orleans Pelicans",
+                        "name": "Chicago Bulls vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "Boston Celtics vs Sacramento Kings",
+                        "name": "Boston Celtics vs New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "New York Knicks vs Oklahoma City Thunder",
+			"name": "Cleveland Cavaliers vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba5.php",
 			"isHost": "true"
              }, {
-			"name": "Chicago Bulls vs Washington Wizards",
+			"name": "Orlando Magic vs Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
               }, {  
-                         "name": "Denver Nuggets vs Brooklyn Nets",
+                         "name": "Washington Wizards vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba7.php",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Utah Jazz vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba8.php",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Phoenix Suns vs Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online/embed/nba4.php",
+			"url" : "https://flstv.online/embed/nba9.php",
 			"isHost": "true"
              }, {
 			"name": "",
@@ -260,22 +260,22 @@
 			"url" : "https://flstv.online//embed/red.php",
 			"isHost": "true"
                          }, {  
-			"name": "",
+			"name": "Buffalo Bills vs Denver Broncos",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "Philadelphia Eagles vs Green Bay Packers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nfl2.php",
+			"url" : "https://flstv.online//embed/nfl1.php",
 			"isHost": "true"
                          }, {  
-                         "name": "",
+                         "name": "Tampa Bay Buccaneers vs Washington Commanders",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nfl3.php",
+			"url" : "https://flstv.online//embed/nfl1.php",
 			"isHost": "true"
                          }, {  
                         "name": "",
@@ -546,31 +546,31 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Detroit Red Wings vs Chicago Blackhawks",
+                        "name": "Detroit Red Wings vs Seattle Kraken",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Washington Capitals vs Montréal Canadiens",
+                         "name": "Ottawa Senators vs Dallas Stars",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Carolina Hurricanes vs Vancouver Canucks",
+                         "name": "Pittsburgh Penguins vs Tampa Bay Lightning",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh3.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Winnipeg Jets vs Los Angeles Kings",
+                         "name": "Carolina Hurricanes vs Anaheim Ducks",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
               }, {  
-                         "name": "Utah Hockey Club vs San Jose Sharks",
+                         "name": "Vegas Golden Knights vs Minnesota Wild",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh5.php/",
@@ -760,141 +760,141 @@
                  	             "name": "Pista 1",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" : "https://ilovetoplay.xyz/wiki.php?id=ten1",
-               "referer" : "https://wikisport.se/",
+                  "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten1",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                     },{
                  "name": "Pista 2",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               "url" : "https://ilovetoplay.xyz/wiki.php?id=ten2",
-               "referer" : "https://wikisport.se/",
+               "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten2",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{
                  "name": "Pista 3",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            "url" : "https://ilovetoplay.xyz/wiki.php?id=ten3",
-               "referer" : "https://wikisport.se/",
+            "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten3",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                     },{ 
                  "name":"Pista 4",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten4",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten4",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 5",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://ilovetoplay.xyz/wiki.php?id=ten5",
-               "referer" : "https://wikisport.se/",
+                     "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten5",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                     },{ 
                  "name": "Pista 6",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://ilovetoplay.xyz/wiki.php?id=ten6",
-               "referer" : "https://wikisport.se/",
+                     "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten6",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 7",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten7",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten7",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                    },{ 
                  "name": "Pista 8",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten8",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten8",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 9",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://ilovetoplay.xyz/wiki.php?id=ten9",
-               "referer" : "https://wikisport.se/",
+                     "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten9",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                     },{ 
                  "name": "Pista 10",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten10",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten10",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 11",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten11",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten11",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 12",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://ilovetoplay.xyz/wiki.php?id=ten12",
-               "referer" : "https://wikisport.se/",
+                     "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten12",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 13",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten13",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten13",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                        },{ 
                  "name": "Pista14",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten14",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten14",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                     },{ 
                  "name": "Pista 15",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten15",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten15",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 16",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten16",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten16",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 17",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://ilovetoplay.xyz/wiki.php?id=ten17",
-               "referer" : "https://wikisport.se/",
+                     "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten17",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 18",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten18",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten18",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               "referer" : "https://wikisport.se/",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 19",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://ilovetoplay.xyz/wiki.php?id=ten19",
-               "referer" : "https://wikisport.se/",
+                     "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten19",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Pista 20",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://ilovetoplay.xyz/wiki.php?id=ten20",
-               "referer" : "https://wikisport.se/",
+                      "url" : "https://freshwaterdell.com/wiki.php?player=desktop&live=ten20",
+               "referer" : "https://wikisport.best/",
 			 "isHost":"true"  
                      },{ 
                  "name": "Tennis Channel",
@@ -1191,15 +1191,31 @@
 		 "info" : " ",
 		"stations": [{
                                                       "name" : "40",
-			"name": "Real Madrid vs Mallorca",
+			"name": "Real Madrid vs Barcelona",
                                                       "image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	       	                  "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp", 
                                                      "referer" : "https://bedsport.live/",
 			"isHost" : "true"
+                          }, {
+			"name": "La Liga (sportzonline)",
+			"name": "Real Madrid vs Barcelona",
+	"image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			  "url" :  "https://forgepattern.net/embed/l57xdb4wvi930cf",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                         }, {
+			"name": "La Liga (sportzonline10)",
+			"name": "Real Madrid vs Barcelona",
+	"image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			  "url" :  "https://forgepattern.net/embed/k13h15p8ue",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
                        }, {
 			"name": "lat156",
-			"name": "Real Madrid vs Mallorca",
+			"name": "Real Madrid vs Barcelona",
 			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://catercollege.net/embed/g36z95h655",
@@ -1207,7 +1223,7 @@
 			 "isHost":"true"
                                            }, { 
                                                       "name": "elix",
-                                                      "name": "Real Madrid vs Mallorca",
+                                                      "name": "Real Madrid vs Barcelona",
 			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	                                        "url" :  "https://freckledine.net/embed/x2qidlx7",
@@ -1215,7 +1231,7 @@
 			 "isHost":"true"
                        }, {
 			"name": "lat157",
-			"name": "Real Madrid vs Mallorca",
+			"name": "Real Madrid vs Barcelona",
 			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://catercollege.net/embed/edl8ze",
@@ -1223,11 +1239,32 @@
 			 "isHost":"true"
                            }, {
 			"name": "lat157",
-			"name": "Real Madrid vs Mallorca",
+			"name": "Real Madrid vs Barcelona",
 			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://flstv.online//embed/soccer6.php",
 			 "isHost":"true"
+                             }, {
+			"name": "Bar ustream29",
+			"name": "Real Madrid vs Barcelona",
+			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		      	   "url" :  "https://hastycast.live/hls/0bcFtdYyG5Qe.m3u8",
+			 "isHost":"true"
+                           }, {
+			"name": "Bar kingstream4",
+			"name": "Real Madrid vs Barcelona",
+			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		      	   "url" :  "https://yhjkrf.site/chunklist/hlsch4.m3u8",
+			 "isHost":"true"
+                                                        }, {
+			"name": "Real Madrid vs Barcelona",
+                                                      "image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" :  "https://embx230391.apl373.me//player/live.php?id=230391&w=100%&h=100%",
+                                                      "referer" : "https://intac.pro/",
+			 "isHost":"true" 
                           }]
                  },{
             "name": "La Liga Endesa/Euroliga 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
