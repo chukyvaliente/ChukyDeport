@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 18-01-2025)",
+    "author": "chuky (Haz-tu-liada al 19-01-2025)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,37 +19,37 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Detroit Pistons vs Indiana Pacers",
+			"name": "Miami Heat vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Washington Wizards vs Phoenix Suns",
+                        "name": "Orlando Magic vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Oklahoma City Thunder vs Cleveland Cavaliers",
+                        "name": "Milwaukee Bucks vs Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "Portland Trail Blazers vs Los Angeles Clippers",
+                        "name": "Oklahoma City Thunder vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "Sacramento Kings vs Houston Rockets",
+			"name": "Los Angeles Clippers vs Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Portland Trail Blazers vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Sacramento Kings vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba7.php",
 			"isHost": "true"
@@ -260,13 +260,13 @@
 			"url" : "https://flstv.online//embed/red.php",
 			"isHost": "true"
                          }, {  
-			"name": "",
+			"name": "Philadelphia Eagles vs Los Angeles Rams",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "Buffalo Bills vs Baltimore Ravens",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
@@ -546,79 +546,79 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Toronto Maple Leafs vs New Jersey Devils",
+                        "name": "New Jersey Devils vs Ottawa Senators",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Ottawa Senators vs Washington Capitals",
+                         "name": "Montréal Canadiens vs New York Rangers",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://flstv.online//embed/nh1.php/",
+			"isHost": "true"
+               }, {  
+                         "name": "Dallas Stars vs Detroit Red Wings",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Tampa Bay Lightning vs Anaheim Ducks",
-			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh3.php/",
-			"isHost": "true"
-               }, {  
-                         "name": "Florida Panthers vs Detroit Red Wings",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
               }, {  
-                         "name": "Columbus Blue Jackets vs San Jose Sharks",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh5.php/",
 			"isHost": "true"
               }, {
-			  "name": "New York Islanders vs Philadelphia Flyers",
+			  "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh6.php/",
 			"isHost": "true"
              }, {
-			"name": "St. Louis Blues vs Calgary Flames",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh7.php/",
 			"isHost": "true"
              }, {
-			"name": "Nashville Predators vs Chicago Blackhawks",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh8.php/",
 			"isHost": "true"
               }, {
-			"name": "Dallas Stars vs Montréal Canadiens",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh9.php/",
 			"isHost": "true"
                }, {
-			"name": "Winnipeg Jets vs Seattle Kraken",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh10.php/",
 			"isHost": "true"
                }, {
-			"name": "Utah Hockey Club vs New York Rangers",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh11.php/",
 			"isHost": "true"
                  }, {
-			"name": "Colorado Avalanche vs Edmonton Oilers",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"  
 			}, {
-			"name": "Vancouver Canucks vs Los Angeles Kings",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "https://flstv.online//embed/nh12.php/",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1105,173 +1105,7 @@
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
 			 "userAgent":""
-                                          }, {
-            "name" : "lat50",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	         "url" :  "https://catercollege.net/embed/ikprof0g",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                                             }, {
-                              "name" : "22",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       			     "url" : "https://generalpilli.net/embed/gjx2kbtjdlnx",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
-                                           }, { 
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	   "url" : "https://generalpilli.net/embed/av8q3fwxcb", 
-                         "referer" : "https://bedsport.live/",
-			"isHost" : "true"
-                         }, {
- 			"name": "lat156",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	        "url" :  "https://catercollege.net/embed/g36z95h655",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                         }, {
-			"name": "40",             
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	            "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp", 
-                         "referer" : "https://bedsport.live/",
-			"isHost" : "true"
-                         }, {
-                        "name": "lat 157",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	      "url": "https://catercollege.net/embed/edl8ze",
-         "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                       }, {
-                        "name": "Galicia",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	      "url": "https://lebo.huminbird.cn/live/ballbar_25430.m3u8",
-            "userAgent":""
-                       }, {
-                        "name": "lat60",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           			         "url" :  "https://catercollege.net/embed/6na79kddf",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                     }, {
-                        "name": "20",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	           "url" : "https://generalpilli.net/embed/uu8c1", 
-                         "referer" : "https://bedsport.live/",
-			"isHost" : "true"
-                         }, {
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	          "url" :  "https://catercollege.net/embed/lbr3etluqsw",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                     }, {
-                      "name": "47",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	        "url" : "https://generalpilli.net/embed/0c46cr4hjls", 
-                         "referer" : "https://bedsport.live/",
-			"isHost" : "true"
                      }]
-                  }, {
-		"name": "Supercopa de España  𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​©",
-	"image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",     
-		 "info" : " ",
-		"stations": [{
-                                                      "name" : "40",
-			"name": "Real Madrid vs Barcelona",
-                                                      "image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       	                  "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp", 
-                                                     "referer" : "https://bedsport.live/",
-			"isHost" : "true"
-                          }, {
-			"name": "La Liga (sportzonline)",
-			"name": "Real Madrid vs Barcelona",
-	"image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://forgepattern.net/embed/l57xdb4wvi930cf",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                         }, {
-			"name": "La Liga (sportzonline10)",
-			"name": "Real Madrid vs Barcelona",
-	"image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://forgepattern.net/embed/k13h15p8ue",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                       }, {
-			"name": "lat156",
-			"name": "Real Madrid vs Barcelona",
-			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://catercollege.net/embed/g36z95h655",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                                           }, { 
-                                                      "name": "elix",
-                                                      "name": "Real Madrid vs Barcelona",
-			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                        "url" :  "https://freckledine.net/embed/x2qidlx7",
-		                  "referer" : "https://elixx.soccer/",
-			 "isHost":"true"
-                       }, {
-			"name": "lat157",
-			"name": "Real Madrid vs Barcelona",
-			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://catercollege.net/embed/edl8ze",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                           }, {
-			"name": "lat157",
-			"name": "Real Madrid vs Barcelona",
-			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://flstv.online//embed/soccer6.php",
-			 "isHost":"true"
-                             }, {
-			"name": "Bar ustream29",
-			"name": "Real Madrid vs Barcelona",
-			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	        "url" : "https://hastycast.live/hls/0bcFtdYyG5Qe.m3u8?st=L9qg4r3I6q-A9JajANyb284DcNJDDHS_Gb9sWAlNqDg&e=1736704533",
-			 "userAgent" : "true"  
-                           }, {
-			"name": "Bar kingstream4",
-			"name": "Real Madrid vs Barcelona",
-			"image": "https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://yhjkrf.site/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDYgOjI0IDo1OSAgUE0maGFzaF92YWx1ZT1KRllhbVkydlBTK2llWDJMSlBPa1Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD01MS4xNTkuMjIwLjE0MyZzdHJtX2xlbj01",
-			 "userAgent":""
-                                                        }, {
-			"name": "Real Madrid vs Barcelona",
-                                                      "image":"https://www.soyfutbol.com/__export/1673269170114/sites/debate/img/2023/01/09/supercopa_espaxa_partidos.jpg_759710130.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://embx230391.apl373.me//player/live.php?id=230391&w=100%&h=100%",
-                                                      "referer" : "https://intac.pro/",
-			 "isHost":"true" 
-                          }]
                  },{
             "name": "La Liga Endesa/Euroliga 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
             "image": "https://i.ibb.co/J7ZM8v6/acb-euroliga.jpg",
@@ -1688,11 +1522,11 @@
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                                         }, {
-                        "name" : "2",
+                        "name" : "30",
 			"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                   "url" : "https://generalpilli.net/embed/h1gn2", 
+                                   "url" : "https://generalpilli.net/embed/fgvd9mt1", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                           }, {
@@ -1731,20 +1565,6 @@
 			 "url" :  "https://one.xtratime.top/hembedplayer/fgyu5gfgdfg/4/500/400",
                                                        "referer" : "https://one.xtratime.top/fgyu5gfgdfg",
                                                        "isHost" : "true"
-                                                            }, {
-			"name": "La de España (opción 8)",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://embx230391.apl373.me//player/live.php?id=230391&w=100%&h=100%",
-                                                      "referer" : "https://intac.pro/",
-			 "isHost":"true" 
-                                                          }, {
-                        "name" : "26",
-			"name": "La Liga (opción 9)",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                   "url" : "https://supertipzz.online/tip/37.php",
-			"isHost" : "true"
                                                         }, {
 			"name": "La de España 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -1821,11 +1641,11 @@
                    "referer" : "https://primefoot.ru/",
 			 "isHost": "true"
                           }, {
-                                                      "name": "La 18",
+                                                      "name": "La 20",
 			"name": "La Seguda división España (opción 7)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                 "url" : "https://generalpilli.net/embed/l2tnht",
+			                 "url" : "https://generalpilli.net/embed/uu8c1",
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
 	              }, {
@@ -1912,6 +1732,7 @@
 			 "isHost":"true"  
                        
                         }, {
+                      "name" : "52",
                     "name": "DAZN Liga 2",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1926,11 +1747,11 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
 			}, {
-                      "name": "30",
+                      "name": "1",
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	  "url": "https://generalpilli.net/embed/fgvd9mt1",
+	  "url": "https://generalpilli.net/embed/o20t6ui616mw1",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                          },{ 
@@ -1947,11 +1768,11 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
 	           },{ 
-                 "name": "29",
+                 "name": "2",
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                      "url" :  "https://generalpilli.net/embed/wnm78ydq",
+                                      "url" :  "https://generalpilli.net/embed/h1gn2",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                                        },{ 
@@ -1961,11 +1782,11 @@
                                   "url" : "https://streamtp2.com/global1.php?stream=dazn2",
              "isHost": "true"
 		     },{ 
-                  "name":"28",
+                  "name":"8",
                  "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                             "url" :  "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
+                             "url" :  "https://generalpilli.net/embed/ae29jk4n",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                     },{ 
@@ -2258,11 +2079,11 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
                       }, {
-                                                        "name": "30",
+                                                        "name": "1",
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		  "url" : "https://generalpilli.net/embed/wnm78ydq",
+		  "url" : "https://generalpilli.net/embed/o20t6ui616mw1",
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                     }, {
@@ -2273,11 +2094,11 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                     }, {
-                                                     "name": "29",  
+                                                     "name": "2",  
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			 "url" : "https://generalpilli.net/embed/wnm78ydq",
+ 			 "url" : "https://generalpilli.net/embed/h1gn2",
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                 }, {
@@ -2751,18 +2572,17 @@
                                    "url" : "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
 			 "userAgent":""
                       },{
-                    "name": "107",
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                             "url" : "https://streamtp2.com/global1.php?stream=espn1",
 					"isHost":"true"
                     },{
-                    "name": "107",
+                    "name": "87",
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                            "url" : "https://linearroute.net/embed/ljtwme",
+                            "url" : "https://catercollege.net/embed/aiif5sr0kjzo8qe",
                    "referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost":"true"
                   },{
@@ -2772,6 +2592,7 @@
                     "url" : "https://streamtp2.com/global1.php?stream=espn2",
 			 "isHost":"true"
                  },{
+                    "name": "88", 
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -2779,15 +2600,16 @@
                                                       "referer" : "https://tarjetarojaenvivo.lat/",
 			"isHost": "true"
                 },{
+                    "name": "89", 
                     "name": "ESPN3-Argentina",
-                    "image": "https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png",
+                    "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" : "https://catercollege.net/embed/embed/r23llp",
+                  "url" : "https://catercollege.net/embed/r23llp",
                                                       "referer" : "https://tarjetarojaenvivo.lat/",
 			"isHost": "true"
                  },{
                     "name": "ESPN3-Argentina",
-                    "image": "https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png",
+                    "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   "url" : "https://streamtp2.com/global1.php?stream=espn3",
 			"isHost": "true"
