@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 19-01-2025)",
+    "author": "chuky (Haz-tu-liada al 20-01-2025)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,44 +19,44 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Miami Heat vs San Antonio Spurs",
+			"name": "Charlotte Hornets vs Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Orlando Magic vs Denver Nuggets",
+                        "name": "Houston Rockets vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Milwaukee Bucks vs Philadelphia 76ers",
+                        "name": "Memphis Grizzlies vs Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "Oklahoma City Thunder vs Brooklyn Nets",
+                        "name": "New York Knicks vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "Los Angeles Clippers vs Los Angeles Lakers",
+			"name": "Cleveland Cavaliers vs Phoenix Suns",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "https://flstv.online/embed/nba5.php",
+			"isHost": "true"
+             }, {
+			"name": "Golden State Warriors vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
-             }, {
-			"name": "Portland Trail Blazers vs Chicago Bulls",
+              }, {  
+                         "name": "New Orleans Pelicans vs Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
-              }, {  
-                         "name": "Sacramento Kings vs Washington Wizards",
+              }, {
+			"name": "Los Angeles Clippers vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba7.php",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online/embed/nba8.php",
 			"isHost": "true"
              }, {
 			"name": "",
@@ -260,13 +260,13 @@
 			"url" : "https://flstv.online//embed/red.php",
 			"isHost": "true"
                          }, {  
-			"name": "Philadelphia Eagles vs Los Angeles Rams",
+			"name": "Notre Dame Fighting Irish vs Ohio State Buckeyes",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
 			"isHost": "true"
                          }, {  
-                        "name": "Buffalo Bills vs Baltimore Ravens",
+                        "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
@@ -546,55 +546,55 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "New Jersey Devils vs Ottawa Senators",
+                        "name": "Boston Bruins vs San Jose Sharks",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Montréal Canadiens vs New York Rangers",
-			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh1.php/",
-			"isHost": "true"
-               }, {  
-                         "name": "Dallas Stars vs Detroit Red Wings",
+                         "name": "Colorado Avalanche vs Minnesota Wild",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "",
+                         "name": "Seattle Kraken vs Buffalo Sabres",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://flstv.online//embed/nh3.php/",
+			"isHost": "true"
+               }, {  
+                         "name": "Vegas Golden Knights vs St. Louis Blues",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Toronto Maple Leafs vs Tampa Bay Lightning",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh5.php/",
 			"isHost": "true"
               }, {
-			  "name": "",
+			  "name": "New York Islanders vs Columbus Blue Jackets",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh6.php/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Chicago Blackhawks vs Carolina Hurricanes",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh7.php/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Utah Hockey Club vs Winnipeg Jets",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh8.php/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Los Angeles Kings vs Pittsburgh Penguins",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh9.php/",
@@ -1747,11 +1747,11 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
 			}, {
-                      "name": "1",
+                      "name": "30",
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	  "url": "https://generalpilli.net/embed/o20t6ui616mw1",
+	  "url": "https://generalpilli.net/embed/fgvd9mt1",
                                              "referer" : "https://bedsport.live/",
                                                        "ishost": "true"
                          },{ 
@@ -2079,11 +2079,11 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
                       }, {
-                                                        "name": "1",
+                                                        "name": "30",
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		  "url" : "https://generalpilli.net/embed/o20t6ui616mw1",
+		  "url" : "https://generalpilli.net/embed/fgvd9mt1",
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                     }, {
