@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 25-01-2025)",
+    "author": "chuky (Haz-tu-liada al 26-01-2025)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,74 +19,74 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "San Antonio Spurs vs Indiana Pacers",
+			"name": "Portland Trail Blazers vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Minnesota Timberwolves vs Denver Nuggets",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Dallas Mavericks vs Boston Celtics",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online/embed/nba2.php",
-			"isHost": "true"
-               }, {  
-                        "name": "Brooklyn Nets vs Miami Heat",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
-              }, {
-			"name": "Orlando Magic vs Detroit Pistons",
+               }, {  
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba4.php",
 			"isHost": "true"
-             }, {
-			"name": "Charlotte Hornets vs New Orleans Pelicans",
+              }, {
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba5.php",
 			"isHost": "true"
-              }, {  
-                         "name": "Atlanta Hawks vs Toronto Raptors",
+             }, {
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
-              }, {
-			"name": "Cleveland Cavaliers vs Houston Rockets",
+              }, {  
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba7.php",
 			"isHost": "true"
-             }, {
-			"name": "New York Knicks vs Sacramento Kings",
+              }, {
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba8.php",
 			"isHost": "true"
              }, {
-			"name": "Chicago Bulls vs Philadelphia 76ers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba9.php",
 			"isHost": "true"
-              }, {
-			"name": "Memphis Grizzlies vs Utah Jazz",
+             }, {
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba10.php",
 			"isHost": "true"
-               }, {
-			"name": "Golden State Warriors vs Los Angeles Lakers",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online/embed/nba2.php",
-			"isHost": "true"
-               }, {
-			"name": "Phoenix Suns vs Washington Wizards",
+              }, {
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba11.php",
 			"isHost": "true"
-                 }, {
-			"name": "Los Angeles Clippers vs Milwaukee Bucks",
+               }, {
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba12.php",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "https://flstv.online/embed/nba13.php",
+			"isHost": "true"
+                 }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "https://flstv.online/embed/nba14.php",
 			"isHost": "true" 
                     }, {
 			"name": "",
@@ -260,13 +260,13 @@
 			"url" : "https://flstv.online//embed/red.php",
 			"isHost": "true"
                          }, {  
-			"name": "Notre Dame Fighting Irish vs Ohio State Buckeyes",
+			"name": "Philadelphia Eagles vs Washington Commanders",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "Kansas City Chiefs vs Buffalo Bills",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nfl1.php",
@@ -546,79 +546,79 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Boston Bruins vs Colorado Avalanche",
+                        "name": "New York Rangers vs Colorado Avalanche",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Edmonton Oilers vs Buffalo Sabres",
+                         "name": "Ottawa Senators vs Utah Hockey Club",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Seattle Kraken vs Pittsburgh Penguins",
+                         "name": "Winnipeg Jets vs Calgary Flames",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh3.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Montréal Canadiens vs New Jersey Devils",
-			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh1.php/",
-			"isHost": "true"
-              }, {  
-                         "name": "Ottawa Senators vs Toronto Maple Leafs",
+                         "name": "Chicago Blackhawks vs Minnesota Wild",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
+              }, {  
+                         "name": "Vegas Golden Knights vs Florida Panthers",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://flstv.online//embed/nh5.php/",
+			"isHost": "true"
               }, {
-			  "name": "Detroit Red Wings vs Tampa Bay Lightning",
+			  "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh5.php/",
 			"isHost": "true"
              }, {
-			"name": "Columbus Blue Jackets vs Los Angeles Kings",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh6.php/",
 			"isHost": "true"
              }, {
-			"name": "St. Louis Blues vs Dallas Stars",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh7.php/",
 			"isHost": "true"
               }, {
-			"name": "Minnesota Wild vs Calgary Flames",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh8.php/",
 			"isHost": "true"
                }, {
-			"name": "New York Islanders vs Carolina Hurricanes",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh9.php/",
 			"isHost": "true"
                }, {
-			"name": "Anaheim Ducks vs Nashville Predators",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh10.php/",
 			"isHost": "true"
                  }, {
-			"name": "Vancouver Canucks vs Washington Capitals",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh11.php/",
 			"isHost": "true"  
 			}, {
-			"name": "San Jose Sharks vs Florida Panthers",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "https://flstv.online//embed/nh12.php/",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1577,8 +1577,8 @@
 			"name": "La Liga (opción 4)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                       "url" :  "https://browncrossing.net/embed/rq4g6",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
+                                                       "url" :  "https://quickcast.click/steam.php?stream=4eLyr2RZq7v",
+		                  "referer" : "https://hyperstream.click/",
 			 "isHost":"true"
                           }, {
 			"name": "La de España (opción 5)",
@@ -1676,11 +1676,11 @@
                    "referer" : "https://primefoot.ru/",
 			 "isHost": "true"
                           }, {
-                                                      "name": "La 23",
+                                                      "name": "La 22",
 			"name": "La Seguda división España (opción 7)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                 "url" : "https://generalpilli.net/embed/wsb3s9ow3e3", 
+			                 "url" : "https://generalpilli.net/embed/gjx2kbtjdlnx", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
 	              }, {
@@ -1705,11 +1705,11 @@
              "referer" : "https://bedsport.live/",
             "isHost": "true"  
                                }, {
-                                "name": "30",
                         "name": "La Seguda división España (opción 11)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
         		                  "url" : "https://emb.apl373.me//player/live.php?id=226727&w=100%&h=100%",
+                                                    "referer" : "https://hyperstream.click/",
 			"isHost" : "true"
 		}]
               },{
@@ -1762,8 +1762,8 @@
                     "name": "DAZN Liga 2",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://mylivestream.pro/bill.php?stream=YJ8krnYwZrR",
-                                                           "referer" : "https://livetvsx.pro/",
+			 "url" :  "https://emb.apl373.me//player/live.php?id=231592&w=100%&h=100%",
+                                                           "referer" : "https://hyperstream.click/",
 			 "isHost":"true"  
                        
                         }, {
@@ -1803,11 +1803,11 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
 	           },{ 
-                 "name": "2",
+                 "name": "29",
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                      "url" :  "https://generalpilli.net/embed/h1gn2",
+                                      "url" :  "https://generalpilli.net/embed/wnm78ydq",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                                        },{ 
@@ -2129,11 +2129,11 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                     }, {
-                                                     "name": "2",  
+                                                     "name": "29",  
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			 "url" : "https://generalpilli.net/embed/h1gn2",
+ 			 "url" : "https://generalpilli.net/embed/wnm78ydq",
                     "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                 }, {
@@ -2878,57 +2878,57 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"info": "",
 		"stations": [{
-                    "name": "ponferradina-vs-sestao",
+                    "name": " Ponferradina - FC Andorra",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
-          "url" :  "https://verns4y0.motiondriedzlqjp.shop/es/football/spanish-primera-division-rfef-4024232/r.html?icg=RVM&ilang=es",
+          "url" :  "https://verns4y0.motiondriedzlqjp.shop/es/football/spanish-primera-division-rfef-4023998/r.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": "celta-vigo-b-vs-real-sociedad-b",
+                    "name": " At. Madrid B - Alcorcón ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024237/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024576/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                       },{
-                                        "name": "cf-intercity-vs-atletico-sanluqueno",
+                                        "name": " UD Ibiza -  AD Mérida ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024647/r.html?icg=RVM&ilang=es",
+          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024359/r.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": "cultural-leonesa-vs-fc-barcelona",
+                    "name": " Intercity - Betis Deportivo ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024229/c.html?icg=R0I&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024404/c.html?icg=R0I&ilang=es",
 			 "embed" : "true" 
                                                                    }, {
-                                     "name": "ourense-cf-vs-cd-lugo",
+                                     "name": " RM Castilla - Villarreal B ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024231/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024510/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                            },{
-                    "name": "gimnastic-de-tarragona-vs-g-segoviana",
+                    "name": " Nástic Tarragona - Amorebieta ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024236/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024040/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                           },{
-                    "name": "atletico-de-madrid-b-vs-algeciras",
+                    "name": " Tarazona - Zamora ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024646/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4023898/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                            },{
-                    "name": "real-madrid-castilla-vs-cd-alcoyano",
+                    "name": " Cultural Leonesa - Unionistas",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024642/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4023951/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                           },{
-                    "name": "",
+                    "name": " Sevilla At  - Algeciras CF ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024215/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024439/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                           }]
                               }, {
