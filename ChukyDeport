@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 27-01-2025)",
+    "author": "chuky (Haz-tu-liada al 29-01-2025)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,59 +19,59 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Portland Trail Blazers vs Oklahoma City Thunder",
+			"name": "Pacers vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "",
+                        "name": "Washington Wizards vs Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Charlotte Hornets vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Boston Celtics vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Miami Heat vs Cleveland Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba5.php",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "New York Knicks vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Philadelphia 76ers vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba7.php",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "San Antonio Spurs vs Los Angeles Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba8.php",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "New Orleans Pelicans vs Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba9.php",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Phoenix Suns vs Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba10.php",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Golden State Warriors vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online/embed/nba11.php",
+			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
                }, {
 			"name": "",
@@ -548,34 +548,34 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "New York Rangers vs Colorado Avalanche",
+                        "name": "Toronto Maple Leafs vs Minnesota Wild",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Ottawa Senators vs Utah Hockey Club",
+                         "name": "Florida Panthers vs Los Angeles Kings",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Winnipeg Jets vs Calgary Flames",
+                         "name": "New Jersey Devils vs Philadelphia Flyers",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh3.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Chicago Blackhawks vs Minnesota Wild",
+                         "name": "Nashville Predators vs Vancouver Canucks",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
               }, {  
-                         "name": "Vegas Golden Knights vs Florida Panthers",
+                         "name": "Utah Hockey Club vs Pittsburgh Penguins",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh5.php/",
+			"url" : "https://flstv.online//embed/nh3.php/",
 			"isHost": "true"
               }, {
 			  "name": "",
@@ -907,150 +907,6 @@
                       "url" : "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
 			 "userAgent":""  
 		}]
-                  }, {
-		"name": "Uefa Nations  League  𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​©",
-		"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",     
-		 "info" : " ",
-		"stations": [{
-                                                      "name" : "2",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                   "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       "url": "https://generalpilli.net/embed/h1gn2",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                       }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy1.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "31",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/skryn8w1pgh",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                      }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy8.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "35",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/v906qlpy",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                        }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy6.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "33",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/eoq4qqpn",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                     }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy5.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "5",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/o20t6ui616mw1",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                          }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy7.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "37",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/mqyperz95",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                  }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy9.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "38",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/4o8n25qm1duhfl",
-                                             "referer" : "https://bedsport.live/",
-                                                  "isHost" :"true"
-                   }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy2.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "36",
-			"name": "España",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8",
-                                                       "userAgent": ""
-                         }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy8.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "30",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/fgvd9mt1",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                           }, { 
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                      "url": "https://flstv.online/embed/footy4.php",
-                                                       "ishost": "true"
-                       }, {
-                                                      "name" : "36",
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://generalpilli.net/embed/egmrcynupb8",
-                                             "referer" : "https://bedsport.live/",
-                                                       "ishost": "true"
-                        }, {
-			"name": "",
-			"image": "https://static.vecteezy.com/system/resources/previews/025/409/483/non_2x/uefa-nations-league-symbol-with-name-logo-abstract-design-illustration-with-black-background-free-vector.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url": "https://flstv.online/embed/footy3.php",
-                                                       "ishost": "true"
-                     }]
                      }, {
 		"name": "Copa del Rey  𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​©",
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",     
@@ -1372,177 +1228,298 @@
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-                                                         "name": "20", 
+                                                         "name": "42", 
                                                        "name": "Campeones 2",
-			"name": "",
+			"name": "Brest vs Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url" :  "https://generalpilli.net/embed/uu8c1",
+                                                   "url" :  "https://generalpilli.net/embed/vq9vkhj3o",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                     }, {
                                                        "name": "Campeones 2",
-			"name": "",
+			"name": "Brest vs Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                "url" :  "https://catercollege.net/embed/g85mrc01p",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
+                    }, {
+			  "name": "Campeones 2",
+			"name": "Brest vs Real Madrid",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://streamingon.org/embed/hd-2.php",
+			 "isHost":"true"
                    }, {
                                                       "name": "Campeones 3", 
-			"name": "",
+			"name": "Salzburg vs Atlético Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" :  "https://catercollege.net/embed/r0zijuje2llg07a",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                             }, {
-                                                      "name": "29",
-			"name": "",
+                                                      "name": "46",
+			"name": "Salzburg vs Atlético Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url" :  "https://generalpilli.net/embed/wnm78ydq",
+		                 "url" :  "https://generalpilli.net/embed/zt3z2jp",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                                                    }, {
-                                                      "name": "Campeones 2 29 ",
-			"name": "",
+                                                      "name": "Campeones 4 45 ",
+			"name": "Girona vs Arsenal",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url" :  "https://generalpilli.net/embed/wnm78ydq",
+			 "url" :  "https://generalpilli.net/embed/kj2hoxz1p0eox0",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                      }, {
-			"name": "",
+                                                      "name": "Campeones 4 ",
+			"name": "Girona vs Arsenal",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-			 "url" :  "https://streamingon.org/embed/hd-2.php",
+			"url" :  "https://catercollege.net/embed/ds13z4tuaur39",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                                     }, {
-                                                      "name": "Campeones 2 ",
-			"name": "",
+			"name": "campeones 6 26",
+                                                      "name" : "Manchester City vs Club Brugge",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url" :  "https://jointexploit.net/embed/k13h15p8ue",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
+			 "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true" 
                                                       }, {
-                                                       "name":"162",
-                                                      "name": "Campeones 2 ",
-			"name": "",
+                                                       "name":"166",
+                                                      "name": "Campeones 6 ",
+			"name": "Manchester City vs Club Brugge",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			"url" :  "https://catercollege.net/embed/g85mrc01p",
+			"url" :  "https://catercollege.net/embed/eur8cbk",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                           }, {
                                                       "name": "Campeones ",
-			"name": "",
+			"name": "Barcelona vs Atalanta",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                   "url" :  "https://freckledine.net/embed/x2qidlx7",
 		                  "referer" : "https://elixx.soccer/",
 			 "isHost":"true"
                      }, {
                                                       "name": "Campeones 161 ",
-			"name": "",
+			"name": "Barcelona vs Atalanta",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			"url" :  "https://catercollege.net/embed/zh44pyu5dpby",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                           }, {
                                                       "name": "Campeones ",
-			"name": "",
+			"name": "Barcelona vs Atalanta",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                                                           }, {
                                                       "name": "Campeones 19 ",
-			"name": "",
+			"name": "Barcelona vs Atalanta",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                    "url" : "https://generalpilli.net/embed/av8q3fwxcb",
                                                      "referer" : "https://bedsport.live/",
                                                       "isHost": "true" 
                                                       }, {
                                                       "name": "Campeones ",
-			"name": "",
+			"name": "Barcelona vs Atalanta",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
                                                      "url" :  "https://streamingon.org/embed/hd-1.php",
 			 "isHost":"true"
                      }, {
-                                                      "name": "Campeones 7 ",
-			"name": "",
+                                                      "name": "Campeones 7 167 ",
+			"name": "Stuttgart vs PSG",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://catercollege.net/embed/5vl1f5yw",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                              }, {
-                                                      "name": "23",
-			"name": "",
+                                                      "name": " campones 7 27",
+			"name": "Stuttgart vs PSG",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url" : "https://generalpilli.net/embed/wsb3s9ow3e3", 
+		                  "url" : "https://generalpilli.net/embed/re856noa", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
-                                                      "name": "Campeones 3 ",
-			"name": "",
+                                                      "name": "Campeones 8 168",
+			"name": "Internazionale vs Monaco",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			"url" :  "https://catercollege.net/embed/r0zijuje2llg07a",
+			"url" :  "https://catercollege.net/embed/xhh0h43hpx2v7",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                       }, {
-                                                      "name": "29",
-			"name": "",
+                                                      "name": "28",
+			"name": "Internazionale vs Monaco",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url" :  "https://generalpilli.net/embed/wnm78ydq",
+		                 "url" :  "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                        }, {
 
-                                                      "name": "28 ",
-			"name": "",
+                                                      "name": "campeones 9 12 ",
+			"name": "Bayer Leverkusen vs Sparta Praha",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url" : "https://generalpilli.net/embed/gjx2kbtjdlnx", 
+			  "url" : "https://generalpilli.net/embed/99df7g4", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
-                                                      "name": "Campeones 8-168 ",
-			"name": "",
+                                                      "name": "Campeones 9-169 ",
+			"name": "Bayer Leverkusen vs Sparta Praha",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url" :  "https://catercollege.net/embed/xhh0h43hpx2v7",
+			  "url" :  "https://catercollege.net/embed/xitymii",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                          }, {
-                                                      "name": "Campeones 5-165", 
-			"name": "",
+                                                      "name": "Campeones 10-170", 
+			"name": "Aston Villa vs Celtic",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url" :  "https://catercollege.net/embed/g61pboptvk4v0",
+		                 "url" :  "https://catercollege.net/embed/i8xuof32t8falvg",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {
-                                                      "name": "27",
-			"name": "",
+                                                      "name": "campeones 10 14",
+			"name": "Aston Villa vs Celtic",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-			 "url" :  "https://generalpilli.net/embed/re856noa",
+			 "url" :  "https://generalpilli.net/embed/48l5pb028",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                                                }, {
-                                                      "name": "Campeones 6-166", 
-			"name": "",
+                                                      "name": "Campeones 11-171", 
+			"name": "Bayern München vs Slovan Bratislava",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url" :  "https://catercollege.net/embed/eur8cbk",
+		                 "url" :  "https://catercollege.net/embed/z626qaml2",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {
-                                                      "name": "22",
-			"name": "",
+                                                      "name": " campenes 11 40",
+			"name": "Bayern München vs Slovan Bratislava",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/xdpq3ptcuts1qpp",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                           }, {
+                                                      "name": "Campeones 12-172", 
+			"name": "PSV vs Liverpool",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/mghhbpxvh",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 12 23",
+			"name": "PSV vs Liverpool",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/wsb3s9ow3e3",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                            }, {
+                                                      "name": "Campeones 13-173", 
+			"name": "Dinamo Zagreb vs Milan",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/eiqewe2jkfv0663",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 13 15",
+			"name": "Dinamo Zagreb vs Milan",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/nyimv",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                              }, {
+                                                      "name": "Campeones 14-174", 
+			"name": "Juventus vs Benfica",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/vfh7lfh8q0g",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 14 29",
+			"name": "Juventus vs Benfica",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/wnm78ydq",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                   }, {
+                                                      "name": "Campeones 15-175", 
+			"name": "Lille vs Feyenoord",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/b5txjwwnk0x8",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 15 16",
+			"name": "Lille vs Feyenoord",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/ycg0h845uvx",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                             }, {
+                                                      "name": "Campeones 16-176", 
+			"name": "Borussia Dortmund vs Shakhtar Donetsk",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/w035wo",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 16 13",
+			"name": "Borussia Dortmund vs Shakhtar Donetsk",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/3mwngwcj5",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                          }, {
+                                                      "name": "Campeones 17-177", 
+			"name": "Sporting CP vs Bologna",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/pu85vndwnoucop1",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 17 21",
+			"name": "Sporting CP vs Bologna",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/l9sfqfyguqpzc",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                                                      }, {
+                                                      "name": "Campeones 18-178", 
+			"name": "Sturm Graz vs RB Leipzig",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/l967ga3",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 18 22",
+			"name": "Sturm Graz vs RB Leipzig",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			 "url" :  "https://generalpilli.net/embed/gjx2kbtjdlnx",
 		                  "referer" : "https://bedsport.live/",
 			 "isHost":"true"
+                                           }, {
+                                                      "name": "Campeones 19-179", 
+			"name": "Young Boys vs Crvena Zvezda",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/v4wvgitbwy1x",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                     }, {
+                                                      "name": " campenes 19 17",
+			"name": "Young Boys vs Crvena Zvezda",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			 "url" :  "https://generalpilli.net/embed/87e30jxya8xu",
+		                  "referer" : "https://bedsport.live/",
+			 "isHost":"true"
                                               }, {
-                                                      "name": "23",
+                                                      "name": "20",
                                                       "name": "Multichampions",
 			"image": "https://a.espncdn.com/photo/2023/0830/r1217896_1295x729_16-9.png",
-		                  "url" : "https://linearroute.net/embed/wsb3s9ow3e3", 
+		                  "url" : "https://linearroute.net/embed/uu8c1", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                      }, {
-                                                      "name": "Multichampions 164",
-			"image": "https://a.espncdn.com/photo/2023/0830/r1217896_1295x729_16-9.png",
-			  "url" :  "https://catercollege.net/embed/ds13z4tuaur39",
+                                                     "name": "Campeones 5-165", 
+			"name": "Multichampions",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://catercollege.net/embed/g61pboptvk4v0",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                    }]
