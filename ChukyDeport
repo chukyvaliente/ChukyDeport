@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 29-01-2025)",
+    "author": "chuky (Haz-tu-liada al 01-02-2025)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -19,57 +19,57 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Pacers vs Detroit Pistons",
+			"name": "Indiana Pacers vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Washington Wizards vs Toronto Raptors",
+                        "name": "Utah Jazz vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Charlotte Hornets vs Brooklyn Nets",
+                        "name": "Charlotte Hornets vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "Boston Celtics vs Chicago Bulls",
+                        "name": "Houston Rockets vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "Miami Heat vs Cleveland Cavaliers",
+			"name": "Minnesota Timberwolves vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba5.php",
 			"isHost": "true"
              }, {
-			"name": "New York Knicks vs Denver Nuggets",
+			"name": "Oklahoma City Thunder vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
               }, {  
-                         "name": "Philadelphia 76ers vs Sacramento Kings",
+                         "name": "San Antonio Spurs vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba7.php",
 			"isHost": "true"
               }, {
-			"name": "San Antonio Spurs vs Los Angeles Clippers",
+			"name": "New York Knicks vs Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba8.php",
 			"isHost": "true"
              }, {
-			"name": "New Orleans Pelicans vs Dallas Mavericks",
+			"name": "Portland Trail Blazers vs Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba9.php",
 			"isHost": "true"
              }, {
-			"name": "Phoenix Suns vs Minnesota Timberwolves",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba10.php",
 			"isHost": "true"
               }, {
-			"name": "Golden State Warriors vs Oklahoma City Thunder",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online/embed/nba6.php",
 			"isHost": "true"
@@ -548,55 +548,55 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Toronto Maple Leafs vs Minnesota Wild",
+                        "name": "TFlorida Panthers vs Chicago Blackhawks",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Florida Panthers vs Los Angeles Kings",
+                         "name": "Boston Bruins vs New York Rangers",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://flstv.online//embed/nh1.php/",
+			"isHost": "true"
+               }, {  
+                         "name": "Ottawa Senators vs Minnesota Wild",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "New Jersey Devils vs Philadelphia Flyers",
+                         "name": "Tampa Bay Lightning vs New York Islanders",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh3.php/",
 			"isHost": "true"
-               }, {  
-                         "name": "Nashville Predators vs Vancouver Canucks",
+              }, {  
+                         "name": "Pittsburgh Penguins vs Nashville Predators",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
-              }, {  
-                         "name": "Utah Hockey Club vs Pittsburgh Penguins",
-			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh3.php/",
-			"isHost": "true"
               }, {
-			  "name": "",
+			  "name": "Washington Capitals vs Winnipeg Jets",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh5.php/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Carolina Hurricanes vs Los Angeles Kings",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh6.php/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Edmonton Oilers vs Toronto Maple Leafs",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh7.php/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Calgary Flames vs Detroit Red Wings",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh8.php/",
@@ -655,17 +655,19 @@
                	       	   "url" : "https://flstv.online/embed/boxing.php",
              "isHost": "true"    
                     },{
+                   "name" : "1",
                  "name": "Evento 1(op2)",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               	       	       "url" :  "https://generalpilli.net/embed/taj6r",
+               	       	       "url" :  "https://generalpilli.net/embed/g3cxfy",
 		"referer" : "https://bedsport.live/",
 			 "isHost":"true"
                      },{
+                   "name" : "52",
                  "name": "Evento 1(op3)",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               	       	 	       	    "url" : "https://generalpilli.net/embed/2t6xcz?skin=1",
+               	       	 	       	    "url" : "https://generalpilli.net/embed/hvbzk77nd?skin=1",
                                                           "referer" : "https://bedsport.live/",
 			 "isHost":"true"
                     },{
@@ -679,7 +681,7 @@
                  "name": "evento 3 MMA/UFC",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	   "url" :  "https://gamelink.ru.com/embed/hd-21.php",
+                  	   "url" :  "https://streamingon.org/embed/hd-21.php",
 			 "isHost":"true"
                         },{
                  "name": "evento 4 MMA/UFC",
@@ -1596,13 +1598,14 @@
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                        "url" : "https://usgate.xyz/z/p2p/az4.php",
+	                        "url" : "https://flstv.online//embed/soccer6.php",
 			"isHost" : "true" 
                          }, {
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	        "url" : "https://streamingon.org/embed/hd-2.php",
+	        "url" : "https://streamingon.org/hls4.php?stream=HDGQ2",
+                                                   "referer" : "https://streamingon.org/embed/hd-2.php",
 			"isHost" : "true" 
 		}]
                  }, {
@@ -1666,8 +1669,9 @@
 			"name": "La Seguda división España (opción 8)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url" : "https://allcaster.pro:8089/hls/377qj1h890g40.m3u8?st=DfIkKQpEFcU7clIEthODXDU0JjNjOdF3ZrzfaDuX3tA&e=1731189631",
-            "userAgent":""
+		 "url" :  "https://quickcast.click/steam.php?stream=4eLyr2RZq7v",
+		                  "referer" : "https://hyperstream.click/",
+			 "isHost":"true"
                      }, {
 			"name": "La Seguda división España (opción 9)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
@@ -1811,12 +1815,13 @@
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                     },{ 
+               "name" : "28",
                 "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                            "url" : "https://4kwebplay.xyz/maxsport.php?id=primadazn3es",
-                 "referer" : "https://antennasports.ru/",
-             "isHost": "true"  
+                           "url" : "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                    },{ 
                 "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
@@ -1835,9 +1840,9 @@
                  "name": "(DAZN 4)",
                     "image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                        "url" : "https://4kwebplay.xyz/maxsport.php?id=primadazn4es",
-                 "referer" : "https://antennasports.ru/",
-             "isHost": "true"  
+                                     "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                        },{ 
                "name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
@@ -2123,24 +2128,27 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                 }, {
+                                                    "name" : "28",
 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			    "url" : "https://streamtp2.com/global1.php?stream=dazn3",
-			"isHost" : "true"
+ 			 "url" : "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                }, {
 			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://forgepattern.net/embed/w67i2uz",
-		"referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
+			 "url" : "https://swipebreed.net/embed/xy2i0bo",
+		        "referer": "https://tarjetarojaenvivo.lat/",
+             "isHost": "true"
 	            }, {
 			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            "url" : "https://streamtp2.com/global1.php?stream=dazn4",
-			"isHost" : "true"
+          "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                      }, {
                         "name": "(Sky premier)", 
 			"name": "Sky Premier(Extranjero)",
@@ -2177,24 +2185,16 @@
 		"image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/02/07/3544930-72245768-2560-1440.jpg",
 		"info": "",
 		"stations": [{
-			"name": "22",
-			"name": "Montpellier vs Nice",
-			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      "url" : "https://generalpilli.net/embed/gjx2kbtjdlnx",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
-        }, {
                         "name": "milan", 
-			"name": "Montpellier vs Nice",
+			"name": "Opción 1",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        "url": "https://forgepattern.net/embed/fxf2qstg",
+        "url": "https://generalpilli.net/embed/jwpz3ec0iqz",
                "referer" : "https://www.elixx.xyz/",
             "isHost":"true"
 		}, { 
 			"name": "38",
-			"name": "Brest vs Nantes",
+			"name": "Opción 2",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			           "url" : "https://generalpilli.net/embed/4o8n25qm1duhfl",
@@ -2202,7 +2202,7 @@
             "isHost": "true"
         }, {
                         "name" : "boavista",
-			"name": "Brest vs Nantes",
+			"name": "Opción 3",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
       "url" : "https://forgepattern.net/embed/k8lq8in1xkknj",
@@ -2210,31 +2210,15 @@
              "isHost": "true"
 		}, {
                          "name" : "Milan",  
-			"name": "PSG vs Olympique Lyonnais",
+			"name": "Opción 4",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" : "https://forgepattern.net/embed/fxf2qstg",
 		        "referer": "https://www.elixx.xyz/",
              "isHost": "true"
-                      }, { 
-			"name": "38",
-			"name": "PSG vs Olympique Lyonnais",
-			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url" : "https://generalpilli.net/embed/4o8n25qm1duhfl",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
-                    }, {
-                         "name" : "milan",  
-			"name": "",
-			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-         "url": "https://forgepattern.net/embed/fxf2qstg",
-              "referer" : "https://elixx.xyz/",
-            "isHost":"true"
 		   }, {
 			"name": "54",
-			"name": "Rennes vs Angers SCO",
+			"name": "Opción 5",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			      "url" : "https://generalpilli.net/embed/2t6xcz?skin=1",
@@ -2242,30 +2226,23 @@
             "isHost": "true"
 		}, {
                          "name": "52",
-			"name": "",
+			"name": "Opción 6",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://generalpilli.net/embed/hvbzk77nd?skin=1",
+			  "url" : "https://generalpilli.net/embed/hvbzk77nd?skin=1",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
-			 }, {
-			 "name": "",
-			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url": "https://forgepattern.net/embed/fxf2qstg",
-              "referer" : "https://elixx.xyz/",
-            "isHost":"true"
 		}, {
-			"name": "53",
-			"name": "Le Havre vs Strasbourg",
+			"name": "55",
+			"name": "Opción 7",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			      "url" : "https://generalpilli.net/embed/7za23cu?skin=1",
+			      "url" : "https://generalpilli.net/embed/00xlj75tkjvtay8?skin=1",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
                            }, {
                         "name": "Celtic", 
-			"name": "",
+			"name": "Opción 8",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
         "url": "https://forgepattern.net/embed/dw4k0efjo1w",
@@ -2277,11 +2254,11 @@
 		"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 		"info": "",
 		"stations": [{
- 			"name": "1",
+ 			"name": "10",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" : "https://generalpilli.net/embed/g3cxfy",
+          "url" : "https://generalpilli.net/embed/jwpz3ec0iqz",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
                                   }, {
@@ -2293,11 +2270,11 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true" 
 		}, {
-                        "name": "114esp-lat",
+                        "name": "88 esp-lat",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                              "url" :  "https://forgepattern.net/embed/t83h07fpraz",
+                                              "url" :  "https://forgepattern.net/embed/ke1144883x9k0n",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true" 
                                    }, {
@@ -2601,7 +2578,7 @@
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                            "url" : "https://catercollege.net/embed/aiif5sr0kjzo8qe",
+                            "url" : "https://laceaccept.net/embed/aiif5sr0kjzo8qe",
                    "referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost":"true"
                   },{
@@ -2615,7 +2592,7 @@
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" : "https://catercollege.net/embed/embed/ke1144883x9k0n",
+                  "url" : "https://catercollege.net/embed/ke1144883x9k0n",
                                                       "referer" : "https://tarjetarojaenvivo.lat/",
 			"isHost": "true"
                 },{
@@ -2857,54 +2834,54 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"info": "",
 		"stations": [{
-                    "name": " Ponferradina - FC Andorra",
+                    "name": " Alcorcón - Recreativo Huelva ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
-          "url" :  "https://verns4y0.motiondriedzlqjp.shop/es/football/spanish-primera-division-rfef-4023998/r.html?icg=RVM&ilang=es",
+          "url" :  "https://verns4y0.motiondriedzlqjp.shop/es/football/spanish-primera-division-rfef-4024493/r.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": " At. Madrid B - Alcorcón ",
+                    "name": " Real Sociedad B - Barcelona Atlétic",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024576/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4023987/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                       },{
-                                        "name": " UD Ibiza -  AD Mérida ",
+                                        "name": " Antequera - Fuenlabrada ",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024359/r.html?icg=RVM&ilang=es",
+          "url" :  "https://drewiecx.wouldstretchkeoahhv.shop/es/football/spanish-primera-division-rfef-4024578/r.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": " Intercity - Betis Deportivo ",
+                    "name": " Zamora - Bilbao Athletic",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024404/c.html?icg=R0I&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4023899/c.html?icg=R0I&ilang=es",
 			 "embed" : "true" 
                                                                    }, {
-                                     "name": " RM Castilla - Villarreal B ",
+                                     "name": " Real Murcia - Alcoyano",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024510/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024326/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                            },{
-                    "name": " Nástic Tarragona - Amorebieta ",
+                    "name": " Sestao River - Cultural Leonesa",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024040/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024024/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                           },{
-                    "name": " Tarazona - Zamora ",
+                    "name": "",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4023898/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                            },{
-                    "name": " Cultural Leonesa - Unionistas",
+                    "name": "",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4023951/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                           },{
-                    "name": " Sevilla At  - Algeciras CF ",
+                    "name": "",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024439/c.html?icg=RVM&ilang=es",
