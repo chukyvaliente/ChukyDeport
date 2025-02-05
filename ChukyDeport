@@ -19,59 +19,59 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Indiana Pacers vs Atlanta Hawks",
+			"name": "Detroit Pistons vs Cleveland Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Utah Jazz vs Orlando Magic",
+                        "name": "Charlotte Hornets vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Charlotte Hornets vs Denver Nuggets",
+                        "name": "Atlanta Hawks vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "Houston Rockets vs Brooklyn Nets",
+                        "name": "Brooklyn Nets vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "Minnesota Timberwolves vs Washington Wizards",
+			"name": "Toronto Raptors vs Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba5.php",
 			"isHost": "true"
              }, {
-			"name": "Oklahoma City Thunder vs Sacramento Kings",
+			"name": "Philadelphia 76ers vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba6.php",
 			"isHost": "true"
               }, {  
-                         "name": "San Antonio Spurs vs Miami Heat",
+                         "name": "Minnesota Timberwolves vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba7.php",
 			"isHost": "true"
               }, {
-			"name": "New York Knicks vs Los Angeles Lakers",
+			"name": "Utah Jazz vs Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba8.php",
 			"isHost": "true"
              }, {
-			"name": "Portland Trail Blazers vs Phoenix Suns",
+			"name": "Denver Nuggets vs New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba9.php",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Oklahoma City Thunder vs Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online//embed/nba10.php",
+			"url" : "https://flstv.online//embed/nba3.php",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Sacramento Kings vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://flstv.online//embed/nba6.php",
+			"url" : "https://flstv.online//embed/nba10.php",
 			"isHost": "true"
                }, {
 			"name": "",
@@ -548,55 +548,55 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "TFlorida Panthers vs Chicago Blackhawks",
+                        "name": "New York Rangers vs Boston Bruins",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Boston Bruins vs New York Rangers",
+                         "name": "Chicago Blackhawks vs Edmonton Oilers",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Ottawa Senators vs Minnesota Wild",
+                         "name": "Los Angeles Kings vs Montréal Canadiens",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Tampa Bay Lightning vs New York Islanders",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh3.php/",
 			"isHost": "true"
               }, {  
-                         "name": "Pittsburgh Penguins vs Nashville Predators",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
               }, {
-			  "name": "Washington Capitals vs Winnipeg Jets",
+			  "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh5.php/",
 			"isHost": "true"
              }, {
-			"name": "Carolina Hurricanes vs Los Angeles Kings",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh6.php/",
 			"isHost": "true"
              }, {
-			"name": "Edmonton Oilers vs Toronto Maple Leafs",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh7.php/",
 			"isHost": "true"
               }, {
-			"name": "Calgary Flames vs Detroit Red Wings",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh8.php/",
@@ -915,54 +915,51 @@
 		 "info" : " ",
 		"stations": [{
                                                       "name" : "19",
-			"name": "Ath. Bilbao - Osasuna",
+			"name": "Leganés - Real Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            	       			   "url" : "https://generalpilli.net/embed/av8q3fwxcb", 
                          "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                        }, {
-			"name": "lat155",
-			"name": "Ath. Bilbao - Osasuna",
+			"name": "61",
+			"name": "Leganés - Real Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://catercollege.net/embed/zzf3ovfa",
+		      	   "url" :  "https://catercollege.net/embed/opthng68di66m",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                            }, { 
-                                                      "name": "18",
-                                                      "name": "Real Sociedad - Vallecano",
+                                                      "name": "streamingon",
+                                                      "name": "Leganés - Real Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                          "url" : "https://generalpilli.net/embed/l2tnht",
-                    "referer" : "https://bedsport.live/",
+           	                                          "url" : "https://streamingon.org/embed/hd-1.php",
 			"isHost" : "true"
                        }, {
-			"name": "lat49",
-			"name": "Real Sociedad - Vallecano",
+			"name": "apsg",
+			"name": "Leganés - Real Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://catercollege.net/embed/8xjdm9xmx8ys",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
+		      	  "url" :  "https://freckledine.net/embed/x2qidlx7",
+		"referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                        }, {
-			"name": "20",             
-			"name": "Real Madrid - Celta Vigo",
+			"name": "sportzonline",             
+			"name": "Leganés - Real Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 	                                    "url" :  "https://forgepattern.net/embed/l57xdb4wvi930cf",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                        }, {
-			"name": "lat156",
-			"name": "Real Madrid - Celta Vigo",
+			"name": "Leganés - Real Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://catercollege.net/embed/g36z95h655",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
+		      	   "url" :  "https://flstv.online//embed/soccer6.php",
 			 "isHost":"true"
                                                           }, {
-			"name": "Real Madrid - Celta Vigo",
+			"name": "TVE",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
@@ -1000,9 +997,9 @@
                  "name": "Opción 2(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-              	"url" : "https://generalpilli.net/embed/l2tnht",
-          "referer" : "https://bedsport.live/",
-            "isHost": "true"   
+              	     "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                        },{
                      "name": "lat63",
                      "name": "Opción 1(M-Deportes 2)",
@@ -2372,8 +2369,9 @@
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            		"url" : "https://allcaster.pro:8089/hls/377qj1h890g40.m3u8?st=DfIkKQpEFcU7clIEthODXDU0JjNjOdF3ZrzfaDuX3tA&e=1731189631",
-            "userAgent":""
+            		     "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
 		}, {
 			"name": "M-Campeones ",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
@@ -2405,9 +2403,9 @@
 			"name": "M-Deportes bis",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                            "url" : "https://generalpilli.net/embed/1y3rog39gf48pz",
-                       "referer" : "https://bedsport.live/",
-             "isHost": "true"       
+                         "url": "https://generalpilli.net/embed/fgvd9mt1",
+                                             "referer" : "https://bedsport.live/",
+                                           "isHost" : "true"
                            }, {  			
                                                        "name": "M-Deportes 62",
 			"name": "M-Deportes",
@@ -2512,17 +2510,11 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
         "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
 			"userAgent": "" 
-		}, {
-			"name": "Barça TV",
-			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://fcb-cdn-global.interactvty.net/VIDEOS/240502/hls/da2b08c980066f32275c7faf28e181e4ff12f150045f248c97675eaebce61252.m3u8",
-			 "userAgent":""
                                     }, {
                                      "name": "Barça One",
 			 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2N0R5vi9h0c5uq3CrwyO02Sjq9xqfFaN2Q&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               			    "url": "https://d1o2jg6gyu61q5.cloudfront.net/index_1.m3u8",
+               			    "url": "	https://fcb-cdn-global.interactvty.net/VIDEOS/263631/hls/84ad430d6608dca8c391e98d4cc321e55f1fdb7cd5fda8fe11458154d81a0312.m3u8",
 			"userAgent": ""
 		}, {
 			"name": "Real MAdrid en la TV",
