@@ -9,48 +9,70 @@
             "info": "",
             "stations": [{}]
                   }, {
-		"name": "Movistar Deportes 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-		"image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
+		"name": "Tenis 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+		"image": "https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-icon-illustration-brand-identity_7109-1016.jpg",
 		"info": "",
 		"stations": [{
-                                "name": "Pista 1",
+                              "name": "Opción 1",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                   "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",  
+               			  "url" : "http://185.189.225.157/EuroSport1/index.m3u8",
+			    "userAgent": ""  
+                               },{
+                 	             "name": "Opción 2",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               "url" : "http://185.189.225.157/EuroSport2/index.m3u8",
+			    "userAgent": ""    
+                                  },{
+                                "name": "Opción 3",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                  "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                			"url" :  "https://swipebreed.net/embed/daqt8nt7p",
                                  "referer" : "https://strimsy.top/",
 			 "isHost":"true"
                                },{
-                 	             "name": "Pista 2",
+                 	             "name": "Opción 4",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" : "https://ilovetoplay.xyz/wiki.php?id=ten1",
-               "referer" : "https://wikisport.se/",
-			 "isHost":"true"  
-                                 }, {
-                           "name": "Teledeporte",
-			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			 "url" :  "https://ztnr.rtve.es/ztnr/1712295.m3u8",
-			 "userAgent":""
-                                     }, {
-                           "name": "Gol TV",
-			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium530/mono.m3u8",
-			"userAgent" : " "
-                                      }, {
-                           "name": "Movistar LaLiga",
-			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-		 "url" : "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                           "name": "LaLiga SmartBank TV",
-			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               		 "url" : "https://streamtp3.com/global1.php?stream=laligahypermotion",
-			 "referer" : "https://daddylive.mp/",
+                 "url" :  "https://wagontorch.net/embed/o3n79f",
+                                 "referer" : "https://strimsy.top/",
 			 "isHost":"true"
-                                          }, {
-                           "name": "LaLiga SmartBank TV 2",
-			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			 "url" : "https://streamtp3.com/global1.php?stream=laligahypermotion2",
-			 "referer" : "https://daddylive.mp/",
+                                  },{
+                 	             "name": "Opción 5",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url" : "https://catercollege.net/embed/um6txc0v4k7ji8o",
+		"referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"   
+                                       },{
+                 	             "name": "Opción 6",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url" : "https://catercollege.net/embed/yrm5hpui6v6mj9r",
+		"referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"           
+                                      }   },{
+                 	             "name": "Opción 7",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                 "url" :  "https://new.allover.top/hembedplayer/hgfjh5bhf5/4/500/400",
+                                 "referer" : "https://new.allover.top/hgfjh5bhf5",
+			 "isHost":"true"
+                                           },{
+                 	             "name": "Opción 8",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url" :  "https://new.allover.top/hembedplayer/fcafdgsg4sza/4/500/400",
+                                 "referer" : "https://new.allover.top/fcafdgsg4sza",
+			 "isHost":"true"
+                                        },{
+                                        "name": "celtic",
+                 	             "name": "Opción 9",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                 "url" :  "https://admitsettle.net/embed/kw6ef0n921mnbf0",
+                                 "referer" : "https://elixx.top/",
 			 "isHost":"true"
                                                              }]
 		               }]
