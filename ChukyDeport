@@ -13,15 +13,18 @@
 		"image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
 		"info": "",
 		"stations": [{
-                                   "name": "TVE-1",
-			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" :  "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8",
-			 "userAgent":""
-                                 }, {
-                                 "name": "TVE-2",
-			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			  "url" :  "https://ztnr.rtve.es/ztnr/1688885.m3u8",
-			 "userAgent":""
+                                "name": "Pista 1",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+               			"url" :  "https://swipebreed.net/embed/daqt8nt7p",
+                                 "referer" : "https://strimsy.top/",
+			 "isHost":"true"
+                               },{
+                 	             "name": "Pista 2",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://ilovetoplay.xyz/wiki.php?id=ten1",
+               "referer" : "https://wikisport.se/",
+			 "isHost":"true"  
                                  }, {
                            "name": "Teledeporte",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
