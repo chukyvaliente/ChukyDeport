@@ -13,11 +13,17 @@
 		"image": "https://i.ibb.co/rGmjSk2s/tenis.jpg",
 		"info": "",
 		"stations": [{
-                           "name": "Pruebas Eurosport 1",
+                           "name": "Eurosport 1 ",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",  
-               			  "url" : "https://planetary.lovecdn.ru/EURO2ES/index.m3u8?token=RVVSTzJFU3xub19jaGVja19pcHwxNzY4NzYxMDU1.24d43d1fc0c3f505ae2533fa1c0b35f7a6738384cc822555822f8df7e3647271",
-					"userAgent": ""
+               			  "url" : "https://www.gledaitv.live/watch-tv/33/eurosport-1-online",
+					"isHost": "true"
+                                  },{
+                             "name": "Eurosport 2 ",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                   "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",  
+               			  "url" : "https://www.gledaitv.live/watch-tv/34/eurosport-2-online",
+					"isHost": "true"
                                   },{
                               "name": "Opción 1",
                     "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
